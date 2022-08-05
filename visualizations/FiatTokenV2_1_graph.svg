@@ -1,672 +1,672 @@
 <?xml version="1.0" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1106pt" height="3953pt" viewBox="0.00 0.00 1105.73 3953.00">
-<g id="graph0" class="graph" transform="translate(-1601.3513940664602,3126.7905692394634) scale(3.646889774231848)" data-name="G">
+<g id="graph0" class="graph" transform="translate(4,3949) scale(1)" data-name="G">
 
 <polygon fill="#2e3e56" stroke="transparent" points="-4,4 -4,-3949 1101.73,-3949 1101.73,4 -4,4" style=""/>
 <g id="clust1" class="cluster" data-name="clusterFiatTokenV2_1">
 
-<path fill="#445773" stroke="rgb(48,64,88)" d="M104.21,-8C104.21,-8 545.9,-8 545.9,-8 551.9,-8 557.9,-14 557.9,-20 557.9,-20 557.9,-127 557.9,-127 557.9,-133 551.9,-139 545.9,-139 545.9,-139 104.21,-139 104.21,-139 98.21,-139 92.21,-133 92.21,-127 92.21,-127 92.21,-20 92.21,-20 92.21,-14 98.21,-8 104.21,-8" style=""/>
+<path fill="#445773" stroke="#445773" d="M104.21,-8C104.21,-8 545.9,-8 545.9,-8 551.9,-8 557.9,-14 557.9,-20 557.9,-20 557.9,-127 557.9,-127 557.9,-133 551.9,-139 545.9,-139 545.9,-139 104.21,-139 104.21,-139 98.21,-139 92.21,-133 92.21,-127 92.21,-127 92.21,-20 92.21,-20 92.21,-14 98.21,-8 104.21,-8" style=""/>
 <text text-anchor="middle" x="325.05" y="-122.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">FiatTokenV2_1</text>
 </g>
 <g id="clust2" class="cluster" data-name="clusterFiatTokenV2">
 
-<path fill="#445773" stroke="rgb(48,64,88)" d="M395.07,-672C395.07,-672 1077.73,-672 1077.73,-672 1083.73,-672 1089.73,-678 1089.73,-684 1089.73,-684 1089.73,-1061 1089.73,-1061 1089.73,-1067 1083.73,-1073 1077.73,-1073 1077.73,-1073 395.07,-1073 395.07,-1073 389.07,-1073 383.07,-1067 383.07,-1061 383.07,-1061 383.07,-684 383.07,-684 383.07,-678 389.07,-672 395.07,-672" style=""/>
+<path fill="#445773" stroke="#445773" d="M395.07,-672C395.07,-672 1077.73,-672 1077.73,-672 1083.73,-672 1089.73,-678 1089.73,-684 1089.73,-684 1089.73,-1061 1089.73,-1061 1089.73,-1067 1083.73,-1073 1077.73,-1073 1077.73,-1073 395.07,-1073 395.07,-1073 389.07,-1073 383.07,-1067 383.07,-1061 383.07,-1061 383.07,-684 383.07,-684 383.07,-678 389.07,-672 395.07,-672" style=""/>
 <text text-anchor="middle" x="736.4" y="-1056.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">FiatTokenV2</text>
 </g>
 <g id="clust4" class="cluster" data-name="clusterFiatTokenV1">
 
-<path fill="#445773" stroke="rgb(48,64,88)" d="M78.49,-1390C78.49,-1390 861.96,-1390 861.96,-1390 867.96,-1390 873.96,-1396 873.96,-1402 873.96,-1402 873.96,-2173 873.96,-2173 873.96,-2179 867.96,-2185 861.96,-2185 861.96,-2185 78.49,-2185 78.49,-2185 72.49,-2185 66.49,-2179 66.49,-2173 66.49,-2173 66.49,-1402 66.49,-1402 66.49,-1396 72.49,-1390 78.49,-1390" style=""/>
+<path fill="#445773" stroke="#445773" d="M78.49,-1390C78.49,-1390 861.96,-1390 861.96,-1390 867.96,-1390 873.96,-1396 873.96,-1402 873.96,-1402 873.96,-2173 873.96,-2173 873.96,-2179 867.96,-2185 861.96,-2185 861.96,-2185 78.49,-2185 78.49,-2185 72.49,-2185 66.49,-2179 66.49,-2173 66.49,-2173 66.49,-1402 66.49,-1402 66.49,-1396 72.49,-1390 78.49,-1390" style=""/>
 <text text-anchor="middle" x="470.22" y="-2168.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">FiatTokenV1</text>
 </g>
 <g id="clust5" class="cluster" data-name="clusterAbstractFiatTokenV1">
 
-<path fill="#445773" stroke="rgb(48,64,88)" d="M109.52,-2193C109.52,-2193 223.46,-2193 223.46,-2193 229.46,-2193 235.46,-2199 235.46,-2205 235.46,-2205 235.46,-2312 235.46,-2312 235.46,-2318 229.46,-2324 223.46,-2324 223.46,-2324 109.52,-2324 109.52,-2324 103.52,-2324 97.52,-2318 97.52,-2312 97.52,-2312 97.52,-2205 97.52,-2205 97.52,-2199 103.52,-2193 109.52,-2193" style=""/>
+<path fill="#445773" stroke="#445773" d="M109.52,-2193C109.52,-2193 223.46,-2193 223.46,-2193 229.46,-2193 235.46,-2199 235.46,-2205 235.46,-2205 235.46,-2312 235.46,-2312 235.46,-2318 229.46,-2324 223.46,-2324 223.46,-2324 109.52,-2324 109.52,-2324 103.52,-2324 97.52,-2318 97.52,-2312 97.52,-2312 97.52,-2205 97.52,-2205 97.52,-2199 103.52,-2193 109.52,-2193" style=""/>
 <text text-anchor="middle" x="166.49" y="-2307.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">AbstractFiatTokenV1</text>
 </g>
 <g id="clust6" class="cluster" data-name="clusterOwnable">
 
-<path fill="#445773" stroke="rgb(48,64,88)" d="M87.59,-2332C87.59,-2332 548.58,-2332 548.58,-2332 554.58,-2332 560.58,-2338 560.58,-2344 560.58,-2344 560.58,-2567 560.58,-2567 560.58,-2573 554.58,-2579 548.58,-2579 548.58,-2579 87.59,-2579 87.59,-2579 81.59,-2579 75.59,-2573 75.59,-2567 75.59,-2567 75.59,-2344 75.59,-2344 75.59,-2338 81.59,-2332 87.59,-2332" style=""/>
+<path fill="#445773" stroke="#445773" d="M87.59,-2332C87.59,-2332 548.58,-2332 548.58,-2332 554.58,-2332 560.58,-2338 560.58,-2344 560.58,-2344 560.58,-2567 560.58,-2567 560.58,-2573 554.58,-2579 548.58,-2579 548.58,-2579 87.59,-2579 87.59,-2579 81.59,-2579 75.59,-2573 75.59,-2567 75.59,-2567 75.59,-2344 75.59,-2344 75.59,-2338 81.59,-2332 87.59,-2332" style=""/>
 <text text-anchor="middle" x="318.09" y="-2562.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Ownable</text>
 </g>
 <g id="clust7" class="cluster" data-name="clusterPausable">
 
-<path fill="#445773" stroke="rgb(48,64,88)" d="M86.61,-2587C86.61,-2587 246.37,-2587 246.37,-2587 252.37,-2587 258.37,-2593 258.37,-2599 258.37,-2599 258.37,-2884 258.37,-2884 258.37,-2890 252.37,-2896 246.37,-2896 246.37,-2896 86.61,-2896 86.61,-2896 80.61,-2896 74.61,-2890 74.61,-2884 74.61,-2884 74.61,-2599 74.61,-2599 74.61,-2593 80.61,-2587 86.61,-2587" style=""/>
+<path fill="#445773" stroke="#445773" d="M86.61,-2587C86.61,-2587 246.37,-2587 246.37,-2587 252.37,-2587 258.37,-2593 258.37,-2599 258.37,-2599 258.37,-2884 258.37,-2884 258.37,-2890 252.37,-2896 246.37,-2896 246.37,-2896 86.61,-2896 86.61,-2896 80.61,-2896 74.61,-2890 74.61,-2884 74.61,-2884 74.61,-2599 74.61,-2599 74.61,-2593 80.61,-2587 86.61,-2587" style=""/>
 <text text-anchor="middle" x="166.49" y="-2879.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Pausable</text>
 </g>
 <g id="clust8" class="cluster" data-name="clusterBlacklistable">
 
-<path fill="#445773" stroke="rgb(48,64,88)" d="M90.68,-2904C90.68,-2904 242.3,-2904 242.3,-2904 248.3,-2904 254.3,-2910 254.3,-2916 254.3,-2916 254.3,-3255 254.3,-3255 254.3,-3261 248.3,-3267 242.3,-3267 242.3,-3267 90.68,-3267 90.68,-3267 84.68,-3267 78.68,-3261 78.68,-3255 78.68,-3255 78.68,-2916 78.68,-2916 78.68,-2910 84.68,-2904 90.68,-2904" style=""/>
+<path fill="#445773" stroke="#445773" d="M90.68,-2904C90.68,-2904 242.3,-2904 242.3,-2904 248.3,-2904 254.3,-2910 254.3,-2916 254.3,-2916 254.3,-3255 254.3,-3255 254.3,-3261 248.3,-3267 242.3,-3267 242.3,-3267 90.68,-3267 90.68,-3267 84.68,-3267 78.68,-3261 78.68,-3255 78.68,-3255 78.68,-2916 78.68,-2916 78.68,-2910 84.68,-2904 90.68,-2904" style=""/>
 <text text-anchor="middle" x="166.49" y="-3250.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Blacklistable</text>
 </g>
 <g id="clust9" class="cluster" data-name="clusterRescuable">
 
-<path fill="#445773" stroke="rgb(48,64,88)" d="M102.3,-3275C102.3,-3275 230.69,-3275 230.69,-3275 236.69,-3275 242.69,-3281 242.69,-3287 242.69,-3287 242.69,-3510 242.69,-3510 242.69,-3516 236.69,-3522 230.69,-3522 230.69,-3522 102.3,-3522 102.3,-3522 96.3,-3522 90.3,-3516 90.3,-3510 90.3,-3510 90.3,-3287 90.3,-3287 90.3,-3281 96.3,-3275 102.3,-3275" style=""/>
+<path fill="#445773" stroke="#445773" d="M102.3,-3275C102.3,-3275 230.69,-3275 230.69,-3275 236.69,-3275 242.69,-3281 242.69,-3287 242.69,-3287 242.69,-3510 242.69,-3510 242.69,-3516 236.69,-3522 230.69,-3522 230.69,-3522 102.3,-3522 102.3,-3522 96.3,-3522 90.3,-3516 90.3,-3510 90.3,-3510 90.3,-3287 90.3,-3287 90.3,-3281 96.3,-3275 102.3,-3275" style=""/>
 <text text-anchor="middle" x="166.49" y="-3505.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Rescuable</text>
 </g>
 <g id="clust10" class="cluster" data-name="clusterAbstractFiatTokenV2">
 
-<path fill="#445773" stroke="rgb(48,64,88)" d="M79.56,-3530C79.56,-3530 253.42,-3530 253.42,-3530 259.42,-3530 265.42,-3536 265.42,-3542 265.42,-3542 265.42,-3649 265.42,-3649 265.42,-3655 259.42,-3661 253.42,-3661 253.42,-3661 79.56,-3661 79.56,-3661 73.56,-3661 67.56,-3655 67.56,-3649 67.56,-3649 67.56,-3542 67.56,-3542 67.56,-3536 73.56,-3530 79.56,-3530" style=""/>
+<path fill="#445773" stroke="#445773" d="M79.56,-3530C79.56,-3530 253.42,-3530 253.42,-3530 259.42,-3530 265.42,-3536 265.42,-3542 265.42,-3542 265.42,-3649 265.42,-3649 265.42,-3655 259.42,-3661 253.42,-3661 253.42,-3661 79.56,-3661 79.56,-3661 73.56,-3661 67.56,-3655 67.56,-3649 67.56,-3649 67.56,-3542 67.56,-3542 67.56,-3536 73.56,-3530 79.56,-3530" style=""/>
 <text text-anchor="middle" x="166.49" y="-3644.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">AbstractFiatTokenV2</text>
 </g>
 <g id="clust11" class="cluster" data-name="clusterEIP712">
 
-<path fill="#445773" stroke="rgb(48,64,88)" d="M722.39,-533C722.39,-533 914.51,-533 914.51,-533 920.51,-533 926.51,-539 926.51,-545 926.51,-545 926.51,-652 926.51,-652 926.51,-658 920.51,-664 914.51,-664 914.51,-664 722.39,-664 722.39,-664 716.39,-664 710.39,-658 710.39,-652 710.39,-652 710.39,-545 710.39,-545 710.39,-539 716.39,-533 722.39,-533" style=""/>
+<path fill="#445773" stroke="#445773" d="M722.39,-533C722.39,-533 914.51,-533 914.51,-533 920.51,-533 926.51,-539 926.51,-545 926.51,-545 926.51,-652 926.51,-652 926.51,-658 920.51,-664 914.51,-664 914.51,-664 722.39,-664 722.39,-664 716.39,-664 710.39,-658 710.39,-652 710.39,-652 710.39,-545 710.39,-545 710.39,-539 716.39,-533 722.39,-533" style=""/>
 <text text-anchor="middle" x="818.45" y="-647.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">EIP712  (lib)</text>
 </g>
 <g id="clust12" class="cluster" data-name="clusterECRecover">
 
-<path fill="#445773" stroke="rgb(48,64,88)" d="M991.78,-533C991.78,-533 1078.75,-533 1078.75,-533 1084.75,-533 1090.75,-539 1090.75,-545 1090.75,-545 1090.75,-598 1090.75,-598 1090.75,-604 1084.75,-610 1078.75,-610 1078.75,-610 991.78,-610 991.78,-610 985.78,-610 979.78,-604 979.78,-598 979.78,-598 979.78,-545 979.78,-545 979.78,-539 985.78,-533 991.78,-533" style=""/>
+<path fill="#445773" stroke="#445773" d="M991.78,-533C991.78,-533 1078.75,-533 1078.75,-533 1084.75,-533 1090.75,-539 1090.75,-545 1090.75,-545 1090.75,-598 1090.75,-598 1090.75,-604 1084.75,-610 1078.75,-610 1078.75,-610 991.78,-610 991.78,-610 985.78,-610 979.78,-604 979.78,-598 979.78,-598 979.78,-545 979.78,-545 979.78,-539 985.78,-533 991.78,-533" style=""/>
 <text text-anchor="middle" x="1035.26" y="-593.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ECRecover  (lib)</text>
 </g>
 <g id="clust14" class="cluster" data-name="clusterEIP3009">
 
-<path fill="#445773" stroke="rgb(48,64,88)" d="M52.19,-286C52.19,-286 940.8,-286 940.8,-286 946.8,-286 952.8,-292 952.8,-298 952.8,-298 952.8,-513 952.8,-513 952.8,-519 946.8,-525 940.8,-525 940.8,-525 52.19,-525 52.19,-525 46.19,-525 40.19,-519 40.19,-513 40.19,-513 40.19,-298 40.19,-298 40.19,-292 46.19,-286 52.19,-286" style=""/>
+<path fill="#445773" stroke="#445773" d="M52.19,-286C52.19,-286 940.8,-286 940.8,-286 946.8,-286 952.8,-292 952.8,-298 952.8,-298 952.8,-513 952.8,-513 952.8,-519 946.8,-525 940.8,-525 940.8,-525 52.19,-525 52.19,-525 46.19,-525 40.19,-519 40.19,-513 40.19,-513 40.19,-298 40.19,-298 40.19,-292 46.19,-286 52.19,-286" style=""/>
 <text text-anchor="middle" x="496.49" y="-508.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">EIP3009</text>
 </g>
 <g id="clust15" class="cluster" data-name="clusterEIP2612">
 
-<path fill="#445773" stroke="rgb(48,64,88)" d="M467.47,-147C467.47,-147 861.41,-147 861.41,-147 867.41,-147 873.41,-153 873.41,-159 873.41,-159 873.41,-266 873.41,-266 873.41,-272 867.41,-278 861.41,-278 861.41,-278 467.47,-278 467.47,-278 461.47,-278 455.47,-272 455.47,-266 455.47,-266 455.47,-159 455.47,-159 455.47,-153 461.47,-147 467.47,-147" style=""/>
+<path fill="#445773" stroke="#445773" d="M467.47,-147C467.47,-147 861.41,-147 861.41,-147 867.41,-147 873.41,-153 873.41,-159 873.41,-159 873.41,-266 873.41,-266 873.41,-272 867.41,-278 861.41,-278 861.41,-278 467.47,-278 467.47,-278 461.47,-278 455.47,-272 455.47,-266 455.47,-266 455.47,-159 455.47,-159 455.47,-153 461.47,-147 467.47,-147" style=""/>
 <text text-anchor="middle" x="664.44" y="-261.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">EIP2612</text>
 </g>
 <g id="clust16" class="cluster" data-name="clusterFiatTokenUtil">
 
-<path fill="#445773" stroke="rgb(48,64,88)" d="M20,-3669C20,-3669 652.1,-3669 652.1,-3669 658.1,-3669 664.1,-3675 664.1,-3681 664.1,-3681 664.1,-3788 664.1,-3788 664.1,-3794 658.1,-3800 652.1,-3800 652.1,-3800 20,-3800 20,-3800 14,-3800 8,-3794 8,-3788 8,-3788 8,-3681 8,-3681 8,-3675 14,-3669 20,-3669" style=""/>
+<path fill="#445773" stroke="#445773" d="M20,-3669C20,-3669 652.1,-3669 652.1,-3669 658.1,-3669 664.1,-3675 664.1,-3681 664.1,-3681 664.1,-3788 664.1,-3788 664.1,-3794 658.1,-3800 652.1,-3800 652.1,-3800 20,-3800 20,-3800 14,-3800 8,-3794 8,-3788 8,-3788 8,-3681 8,-3681 8,-3675 14,-3669 20,-3669" style=""/>
 <text text-anchor="middle" x="336.05" y="-3783.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">FiatTokenUtil</text>
 </g>
 <g id="clust17" class="cluster" data-name="clustertotalSupply_">
 
-<path fill="#3b4b63" stroke="rgb(64,67,88)" stroke-dasharray="5,2" d="M787.45,-1251C787.45,-1251 850.45,-1251 850.45,-1251 856.45,-1251 862.45,-1257 862.45,-1263 862.45,-1263 862.45,-1370 862.45,-1370 862.45,-1376 856.45,-1382 850.45,-1382 850.45,-1382 787.45,-1382 787.45,-1382 781.45,-1382 775.45,-1376 775.45,-1370 775.45,-1370 775.45,-1263 775.45,-1263 775.45,-1257 781.45,-1251 787.45,-1251" style=""/>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M787.45,-1251C787.45,-1251 850.45,-1251 850.45,-1251 856.45,-1251 862.45,-1257 862.45,-1263 862.45,-1263 862.45,-1370 862.45,-1370 862.45,-1376 856.45,-1382 850.45,-1382 850.45,-1382 787.45,-1382 787.45,-1382 781.45,-1382 775.45,-1376 775.45,-1370 775.45,-1370 775.45,-1263 775.45,-1263 775.45,-1257 781.45,-1251 787.45,-1251" style=""/>
 <text text-anchor="middle" x="818.95" y="-1365.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">totalSupply_</text>
 </g>
 <g id="clust18" class="cluster" data-name="clustermintingAllowedAmount">
 
-<path fill="#3b4b63" stroke="rgb(64,67,88)" stroke-dasharray="5,2" d="M754.45,-1166C754.45,-1166 883.45,-1166 883.45,-1166 889.45,-1166 895.45,-1172 895.45,-1178 895.45,-1178 895.45,-1231 895.45,-1231 895.45,-1237 889.45,-1243 883.45,-1243 883.45,-1243 754.45,-1243 754.45,-1243 748.45,-1243 742.45,-1237 742.45,-1231 742.45,-1231 742.45,-1178 742.45,-1178 742.45,-1172 748.45,-1166 754.45,-1166" style=""/>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M754.45,-1166C754.45,-1166 883.45,-1166 883.45,-1166 889.45,-1166 895.45,-1172 895.45,-1178 895.45,-1178 895.45,-1231 895.45,-1231 895.45,-1237 889.45,-1243 883.45,-1243 883.45,-1243 754.45,-1243 754.45,-1243 748.45,-1243 742.45,-1237 742.45,-1231 742.45,-1231 742.45,-1178 742.45,-1178 742.45,-1172 748.45,-1166 754.45,-1166" style=""/>
 <text text-anchor="middle" x="818.95" y="-1226.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">mintingAllowedAmount</text>
 </g>
 <g id="clust19" class="cluster" data-name="clusterbalance">
 
-<path fill="#3b4b63" stroke="rgb(64,67,88)" stroke-dasharray="5,2" d="M795.45,-1081C795.45,-1081 841.45,-1081 841.45,-1081 847.45,-1081 853.45,-1087 853.45,-1093 853.45,-1093 853.45,-1146 853.45,-1146 853.45,-1152 847.45,-1158 841.45,-1158 841.45,-1158 795.45,-1158 795.45,-1158 789.45,-1158 783.45,-1152 783.45,-1146 783.45,-1146 783.45,-1093 783.45,-1093 783.45,-1087 789.45,-1081 795.45,-1081" style=""/>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M795.45,-1081C795.45,-1081 841.45,-1081 841.45,-1081 847.45,-1081 853.45,-1087 853.45,-1093 853.45,-1093 853.45,-1146 853.45,-1146 853.45,-1152 847.45,-1158 841.45,-1158 841.45,-1158 795.45,-1158 795.45,-1158 789.45,-1158 783.45,-1152 783.45,-1146 783.45,-1146 783.45,-1093 783.45,-1093 783.45,-1087 789.45,-1081 795.45,-1081" style=""/>
 <text text-anchor="middle" x="818.45" y="-1141.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">balance</text>
 </g>
 <g id="clust20" class="cluster" data-name="clusterIERC20">
 
-<path fill="#3b4b63" stroke="rgb(64,67,88)" stroke-dasharray="5,2" d="M449.25,-3329C449.25,-3329 559.83,-3329 559.83,-3329 565.83,-3329 571.83,-3335 571.83,-3341 571.83,-3341 571.83,-3394 571.83,-3394 571.83,-3400 565.83,-3406 559.83,-3406 559.83,-3406 449.25,-3406 449.25,-3406 443.25,-3406 437.25,-3400 437.25,-3394 437.25,-3394 437.25,-3341 437.25,-3341 437.25,-3335 443.25,-3329 449.25,-3329" style=""/>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M449.25,-3329C449.25,-3329 559.83,-3329 559.83,-3329 565.83,-3329 571.83,-3335 571.83,-3341 571.83,-3341 571.83,-3394 571.83,-3394 571.83,-3400 565.83,-3406 559.83,-3406 559.83,-3406 449.25,-3406 449.25,-3406 443.25,-3406 437.25,-3400 437.25,-3394 437.25,-3394 437.25,-3341 437.25,-3341 437.25,-3335 443.25,-3329 449.25,-3329" style=""/>
 <text text-anchor="middle" x="504.54" y="-3389.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC20</text>
 </g>
 <g id="clust21" class="cluster" data-name="cluster_fiatToken">
 
-<path fill="#3b4b63" stroke="rgb(64,67,88)" stroke-dasharray="5,2" d="M478.54,-3584C478.54,-3584 531.54,-3584 531.54,-3584 537.54,-3584 543.54,-3590 543.54,-3596 543.54,-3596 543.54,-3649 543.54,-3649 543.54,-3655 537.54,-3661 531.54,-3661 531.54,-3661 478.54,-3661 478.54,-3661 472.54,-3661 466.54,-3655 466.54,-3649 466.54,-3649 466.54,-3596 466.54,-3596 466.54,-3590 472.54,-3584 478.54,-3584" style=""/>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M478.54,-3584C478.54,-3584 531.54,-3584 531.54,-3584 537.54,-3584 543.54,-3590 543.54,-3596 543.54,-3596 543.54,-3649 543.54,-3649 543.54,-3655 537.54,-3661 531.54,-3661 531.54,-3661 478.54,-3661 478.54,-3661 472.54,-3661 466.54,-3655 466.54,-3649 466.54,-3649 466.54,-3596 466.54,-3596 466.54,-3590 472.54,-3584 478.54,-3584" style=""/>
 <text text-anchor="middle" x="505.04" y="-3644.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">_fiatToken</text>
 </g>
 <g id="clust22" class="cluster" data-name="cluster_01">
 
-<polygon fill="rgb(46,62,86)" stroke="rgb(41,55,77)" points="93.49,-3808 93.49,-3937 539.54,-3937 539.54,-3808 93.49,-3808" style=""/>
+<polygon fill="#2e3e56" stroke="black" points="93.49,-3808 93.49,-3937 539.54,-3937 539.54,-3808 93.49,-3808" style=""/>
 <text text-anchor="middle" x="316.52" y="-3920.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
 </g>
 <!-- FiatTokenV2_1.initializeV2_1 -->
 <g id="node1" class="node" pointer-events="visible" data-name="FiatTokenV2_1.initializeV2_1">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-88" rx="66.06" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-88" rx="66.06" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-83.8" font-family="Times,serif" font-size="14.00" style="">initializeV2_1</text>
 </g>
 <!-- FiatTokenV2_1._transfer -->
 <g id="node3" class="node" pointer-events="visible" data-name="FiatTokenV2_1._transfer">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="504.54" cy="-88" rx="45.21" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="504.54" cy="-88" rx="45.21" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-83.8" font-family="Times,serif" font-size="14.00" style="">_transfer</text>
 </g>
 <!-- FiatTokenV2_1.initializeV2_1&#45;&gt;FiatTokenV2_1._transfer -->
 <g id="edge1" class="edge" data-name="FiatTokenV2_1.initializeV2_1-&gt;FiatTokenV2_1._transfer">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M233.08,-88C295.97,-88 389.81,-88 448.8,-88" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="449.03,-91.5 459.03,-88 449.03,-84.5 449.03,-91.5" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M233.08,-88C295.97,-88 389.81,-88 448.8,-88" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="449.03,-91.5 459.03,-88 449.03,-84.5 449.03,-91.5" style=""/>
 </g>
 <!-- FiatTokenV2_1.version -->
 <g id="node2" class="node" pointer-events="visible" data-name="FiatTokenV2_1.version">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-34" rx="39.43" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-34" rx="39.43" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-29.8" font-family="Times,serif" font-size="14.00" style="">version</text>
 </g>
 <!-- FiatTokenV2.initializeV2 -->
 <g id="node4" class="node" pointer-events="visible" data-name="FiatTokenV2.initializeV2">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="504.54" cy="-698" rx="56.75" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="504.54" cy="-698" rx="56.75" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-693.8" font-family="Times,serif" font-size="14.00" style="">initializeV2</text>
 </g>
 <!-- EIP712.makeDomainSeparator -->
 <g id="node63" class="node" pointer-events="visible" data-name="EIP712.makeDomainSeparator">
 
-<ellipse fill="rgb(65,75,90)" stroke="rgb(65,75,90)" stroke-width="3" cx="818.45" cy="-613" rx="100.12" ry="18" style=""/>
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="818.45" cy="-613" rx="100.12" ry="18" style=""/>
 <text text-anchor="middle" x="818.45" y="-608.8" font-family="Times,serif" font-size="14.00" style="">makeDomainSeparator</text>
 </g>
 <!-- FiatTokenV2.initializeV2&#45;&gt;EIP712.makeDomainSeparator -->
 <g id="edge2" class="edge" data-name="FiatTokenV2.initializeV2-&gt;EIP712.makeDomainSeparator">
 
-<path fill="none" stroke="rgb(66,81,102)" stroke-width="2" d="M548.26,-686.36C600.96,-672 691.11,-647.43 752.43,-630.72" style=""/>
-<polygon fill="rgb(66,81,102)" stroke="rgb(66,81,102)" stroke-width="2" points="753.67,-634.01 762.39,-628 751.83,-627.26 753.67,-634.01" style=""/>
+<path fill="none" stroke="white" stroke-width="2" d="M548.26,-686.36C600.96,-672 691.11,-647.43 752.43,-630.72" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="753.67,-634.01 762.39,-628 751.83,-627.26 753.67,-634.01" style=""/>
 </g>
 <!-- FiatTokenV2.increaseAllowance -->
 <g id="node5" class="node" pointer-events="visible" data-name="FiatTokenV2.increaseAllowance">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="504.54" cy="-1022" rx="84.49" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="504.54" cy="-1022" rx="84.49" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-1017.8" font-family="Times,serif" font-size="14.00" style="">increaseAllowance</text>
 </g>
 <!-- FiatTokenV2._increaseAllowance -->
 <g id="node11" class="node" pointer-events="visible" data-name="FiatTokenV2._increaseAllowance">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="818.45" cy="-1022" rx="89.15" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="818.45" cy="-1022" rx="89.15" ry="18" style=""/>
 <text text-anchor="middle" x="818.45" y="-1017.8" font-family="Times,serif" font-size="14.00" style="">_increaseAllowance</text>
 </g>
 <!-- FiatTokenV2.increaseAllowance&#45;&gt;FiatTokenV2._increaseAllowance -->
 <g id="edge3" class="edge" data-name="FiatTokenV2.increaseAllowance-&gt;FiatTokenV2._increaseAllowance">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M589.13,-1022C629.05,-1022 677.11,-1022 718.81,-1022" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="718.99,-1025.5 728.99,-1022 718.99,-1018.5 718.99,-1025.5" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M589.13,-1022C629.05,-1022 677.11,-1022 718.81,-1022" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="718.99,-1025.5 728.99,-1022 718.99,-1018.5 718.99,-1025.5" style=""/>
 </g>
 <!-- FiatTokenV2.decreaseAllowance -->
 <g id="node6" class="node" pointer-events="visible" data-name="FiatTokenV2.decreaseAllowance">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="504.54" cy="-968" rx="86.2" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="504.54" cy="-968" rx="86.2" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-963.8" font-family="Times,serif" font-size="14.00" style="">decreaseAllowance</text>
 </g>
 <!-- FiatTokenV2._decreaseAllowance -->
 <g id="node12" class="node" pointer-events="visible" data-name="FiatTokenV2._decreaseAllowance">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="818.45" cy="-968" rx="90.86" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="818.45" cy="-968" rx="90.86" ry="18" style=""/>
 <text text-anchor="middle" x="818.45" y="-963.8" font-family="Times,serif" font-size="14.00" style="">_decreaseAllowance</text>
 </g>
 <!-- FiatTokenV2.decreaseAllowance&#45;&gt;FiatTokenV2._decreaseAllowance -->
 <g id="edge4" class="edge" data-name="FiatTokenV2.decreaseAllowance-&gt;FiatTokenV2._decreaseAllowance">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M590.77,-968C629.85,-968 676.44,-968 717.19,-968" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="717.41,-971.5 727.41,-968 717.41,-964.5 717.41,-971.5" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M590.77,-968C629.85,-968 676.44,-968 717.19,-968" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="717.41,-971.5 727.41,-968 717.41,-964.5 717.41,-971.5" style=""/>
 </g>
 <!-- FiatTokenV2.transferWithAuthorization -->
 <g id="node7" class="node" pointer-events="visible" data-name="FiatTokenV2.transferWithAuthorization">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="504.54" cy="-914" rx="113.44" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="504.54" cy="-914" rx="113.44" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-909.8" font-family="Times,serif" font-size="14.00" style="">transferWithAuthorization</text>
 </g>
 <!-- FiatTokenV2._transferWithAuthorization -->
 <g id="node13" class="node" pointer-events="visible" data-name="FiatTokenV2._transferWithAuthorization">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="818.45" cy="-914" rx="118.1" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="818.45" cy="-914" rx="118.1" ry="18" style=""/>
 <text text-anchor="middle" x="818.45" y="-909.8" font-family="Times,serif" font-size="14.00" style="">_transferWithAuthorization</text>
 </g>
 <!-- FiatTokenV2.transferWithAuthorization&#45;&gt;FiatTokenV2._transferWithAuthorization -->
 <g id="edge5" class="edge" data-name="FiatTokenV2.transferWithAuthorization-&gt;FiatTokenV2._transferWithAuthorization">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M618.15,-914C641.43,-914 666.12,-914 689.89,-914" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="690.01,-917.5 700.01,-914 690.01,-910.5 690.01,-917.5" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M618.15,-914C641.43,-914 666.12,-914 689.89,-914" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="690.01,-917.5 700.01,-914 690.01,-910.5 690.01,-917.5" style=""/>
 </g>
 <!-- FiatTokenV2.receiveWithAuthorization -->
 <g id="node8" class="node" pointer-events="visible" data-name="FiatTokenV2.receiveWithAuthorization">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="504.54" cy="-860" rx="111.71" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="504.54" cy="-860" rx="111.71" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-855.8" font-family="Times,serif" font-size="14.00" style="">receiveWithAuthorization</text>
 </g>
 <!-- FiatTokenV2._receiveWithAuthorization -->
 <g id="node14" class="node" pointer-events="visible" data-name="FiatTokenV2._receiveWithAuthorization">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="818.45" cy="-860" rx="116.87" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="818.45" cy="-860" rx="116.87" ry="18" style=""/>
 <text text-anchor="middle" x="818.45" y="-855.8" font-family="Times,serif" font-size="14.00" style="">_receiveWithAuthorization</text>
 </g>
 <!-- FiatTokenV2.receiveWithAuthorization&#45;&gt;FiatTokenV2._receiveWithAuthorization -->
 <g id="edge6" class="edge" data-name="FiatTokenV2.receiveWithAuthorization-&gt;FiatTokenV2._receiveWithAuthorization">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M616.83,-860C641.04,-860 666.83,-860 691.57,-860" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="691.73,-863.5 701.73,-860 691.73,-856.5 691.73,-863.5" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M616.83,-860C641.04,-860 666.83,-860 691.57,-860" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="691.73,-863.5 701.73,-860 691.73,-856.5 691.73,-863.5" style=""/>
 </g>
 <!-- FiatTokenV2.cancelAuthorization -->
 <g id="node9" class="node" pointer-events="visible" data-name="FiatTokenV2.cancelAuthorization">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="504.54" cy="-806" rx="89.16" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="504.54" cy="-806" rx="89.16" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-801.8" font-family="Times,serif" font-size="14.00" style="">cancelAuthorization</text>
 </g>
 <!-- FiatTokenV2._cancelAuthorization -->
 <g id="node15" class="node" pointer-events="visible" data-name="FiatTokenV2._cancelAuthorization">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="818.45" cy="-806" rx="94.32" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="818.45" cy="-806" rx="94.32" ry="18" style=""/>
 <text text-anchor="middle" x="818.45" y="-801.8" font-family="Times,serif" font-size="14.00" style="">_cancelAuthorization</text>
 </g>
 <!-- FiatTokenV2.cancelAuthorization&#45;&gt;FiatTokenV2._cancelAuthorization -->
 <g id="edge7" class="edge" data-name="FiatTokenV2.cancelAuthorization-&gt;FiatTokenV2._cancelAuthorization">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M594.09,-806C631.37,-806 675.01,-806 713.78,-806" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="714.05,-809.5 724.05,-806 714.05,-802.5 714.05,-809.5" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M594.09,-806C631.37,-806 675.01,-806 713.78,-806" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="714.05,-809.5 724.05,-806 714.05,-802.5 714.05,-809.5" style=""/>
 </g>
 <!-- FiatTokenV2.permit -->
 <g id="node10" class="node" pointer-events="visible" data-name="FiatTokenV2.permit">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="504.54" cy="-752" rx="36.49" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="504.54" cy="-752" rx="36.49" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-747.8" font-family="Times,serif" font-size="14.00" style="">permit</text>
 </g>
 <!-- FiatTokenV2._permit -->
 <g id="node16" class="node" pointer-events="visible" data-name="FiatTokenV2._permit">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="818.45" cy="-752" rx="41.15" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="818.45" cy="-752" rx="41.15" ry="18" style=""/>
 <text text-anchor="middle" x="818.45" y="-747.8" font-family="Times,serif" font-size="14.00" style="">_permit</text>
 </g>
 <!-- FiatTokenV2.permit&#45;&gt;FiatTokenV2._permit -->
 <g id="edge8" class="edge" data-name="FiatTokenV2.permit-&gt;FiatTokenV2._permit">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M541.02,-752C596.45,-752 703.8,-752 767.18,-752" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="767.34,-755.5 777.34,-752 767.34,-748.5 767.34,-755.5" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M541.02,-752C596.45,-752 703.8,-752 767.18,-752" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="767.34,-755.5 777.34,-752 767.34,-748.5 767.34,-755.5" style=""/>
 </g>
 <!-- FiatTokenV2._approve -->
 <g id="node17" class="node" pointer-events="visible" data-name="FiatTokenV2._approve">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="1034.76" cy="-995" rx="46.93" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1034.76" cy="-995" rx="46.93" ry="18" style=""/>
 <text text-anchor="middle" x="1034.76" y="-990.8" font-family="Times,serif" font-size="14.00" style="">_approve</text>
 </g>
 <!-- FiatTokenV2._increaseAllowance&#45;&gt;FiatTokenV2._approve -->
 <g id="edge9" class="edge" data-name="FiatTokenV2._increaseAllowance-&gt;FiatTokenV2._approve">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M894.71,-1012.52C922.82,-1008.98 954.15,-1005.03 979.94,-1001.78" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="980.42,-1005.25 989.9,-1000.53 979.55,-998.3 980.42,-1005.25" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M894.71,-1012.52C922.82,-1008.98 954.15,-1005.03 979.94,-1001.78" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="980.42,-1005.25 989.9,-1000.53 979.55,-998.3 980.42,-1005.25" style=""/>
 </g>
 <!-- FiatTokenV2._decreaseAllowance&#45;&gt;FiatTokenV2._approve -->
 <g id="edge10" class="edge" data-name="FiatTokenV2._decreaseAllowance-&gt;FiatTokenV2._approve">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M895.61,-977.6C923.42,-981.1 954.28,-984.99 979.77,-988.2" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="979.61,-991.71 989.97,-989.48 980.49,-984.76 979.61,-991.71" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M895.61,-977.6C923.42,-981.1 954.28,-984.99 979.77,-988.2" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="979.61,-991.71 989.97,-989.48 980.49,-984.76 979.61,-991.71" style=""/>
 </g>
 <!-- FiatTokenV1.initialize -->
 <g id="node18" class="node" pointer-events="visible" data-name="FiatTokenV1.initialize">
 
-<ellipse fill="rgb(66,70,92)" stroke="rgb(66,70,92)" stroke-width="3" cx="166.49" cy="-2134" rx="44.64" ry="18" style=""/>
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="166.49" cy="-2134" rx="44.64" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-2129.8" font-family="Times,serif" font-size="14.00" style="">initialize</text>
 </g>
 <!-- FiatTokenV1.setOwner -->
 <g id="node36" class="node" pointer-events="visible" data-name="FiatTokenV1.setOwner">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="504.54" cy="-2134" rx="48.08" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="504.54" cy="-2134" rx="48.08" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-2129.8" font-family="Times,serif" font-size="14.00" style="">setOwner</text>
 </g>
 <!-- FiatTokenV1.initialize&#45;&gt;FiatTokenV1.setOwner -->
 <g id="edge11" class="edge" data-name="FiatTokenV1.initialize-&gt;FiatTokenV1.setOwner">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M211.42,-2134C271.54,-2134 379.55,-2134 446.05,-2134" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="446.35,-2137.5 456.35,-2134 446.35,-2130.5 446.35,-2137.5" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M211.42,-2134C271.54,-2134 379.55,-2134 446.05,-2134" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="446.35,-2137.5 456.35,-2134 446.35,-2130.5 446.35,-2137.5" style=""/>
 </g>
 <!-- FiatTokenV1.onlyMinters -->
 <g id="node19" class="node" pointer-events="visible" data-name="FiatTokenV1.onlyMinters">
 
-<polygon fill="rgb(65,73,86)" stroke="rgb(44,75,94)" stroke-width="3" points="229.58,-2068.54 229.58,-2083.46 192.62,-2094 140.36,-2094 103.4,-2083.46 103.4,-2068.54 140.36,-2058 192.62,-2058 229.58,-2068.54" style=""/>
-<polygon fill="none" stroke="rgb(44,75,94)" stroke-width="3" points="233.58,-2065.53 233.58,-2086.47 193.18,-2098 139.8,-2098 99.4,-2086.47 99.4,-2065.53 139.8,-2054 193.18,-2054 233.58,-2065.53" style=""/>
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="229.58,-2068.54 229.58,-2083.46 192.62,-2094 140.36,-2094 103.4,-2083.46 103.4,-2068.54 140.36,-2058 192.62,-2058 229.58,-2068.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="233.58,-2065.53 233.58,-2086.47 193.18,-2098 139.8,-2098 99.4,-2086.47 99.4,-2065.53 139.8,-2054 193.18,-2054 233.58,-2065.53" style=""/>
 <text text-anchor="middle" x="166.49" y="-2071.8" font-family="Times,serif" font-size="14.00" style="">onlyMinters</text>
 </g>
 <!-- FiatTokenV1.mint -->
 <g id="node20" class="node" pointer-events="visible" data-name="FiatTokenV1.mint">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="504.54" cy="-1470" rx="28.99" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="504.54" cy="-1470" rx="28.99" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-1465.8" font-family="Times,serif" font-size="14.00" style="">mint</text>
 </g>
 <!-- FiatTokenV1.Transfer -->
 <g id="node37" class="node" pointer-events="visible" data-name="FiatTokenV1.Transfer">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="818.45" cy="-1470" rx="43.99" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="818.45" cy="-1470" rx="43.99" ry="18" style=""/>
 <text text-anchor="middle" x="818.45" y="-1465.8" font-family="Times,serif" font-size="14.00" style="">Transfer</text>
 </g>
 <!-- FiatTokenV1.mint&#45;&gt;FiatTokenV1.Transfer -->
 <g id="edge14" class="edge" data-name="FiatTokenV1.mint-&gt;FiatTokenV1.Transfer">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M533.49,-1470C585.44,-1470 697.63,-1470 764.39,-1470" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="764.7,-1473.5 774.7,-1470 764.7,-1466.5 764.7,-1473.5" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M533.49,-1470C585.44,-1470 697.63,-1470 764.39,-1470" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="764.7,-1473.5 774.7,-1470 764.7,-1466.5 764.7,-1473.5" style=""/>
 </g>
 <!-- totalSupply_.add -->
 <g id="node81" class="node" pointer-events="visible" data-name="totalSupply_.add">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="818.45" cy="-1331" rx="27" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="818.45" cy="-1331" rx="27" ry="18" style=""/>
 <text text-anchor="middle" x="818.45" y="-1326.8" font-family="Times,serif" font-size="14.00" style="">add</text>
 </g>
 <!-- FiatTokenV1.mint&#45;&gt;totalSupply_.add -->
 <g id="edge12" class="edge" data-name="FiatTokenV1.mint-&gt;totalSupply_.add">
 
-<path fill="none" stroke="rgb(66,81,102)" stroke-width="2" d="M533.12,-1472.47C567.27,-1474.05 625.62,-1471.74 664.1,-1443 686.71,-1426.11 671.71,-1405.52 692.1,-1386 717.36,-1361.8 755.01,-1347.25 782.46,-1339.25" style=""/>
-<polygon fill="rgb(66,81,102)" stroke="rgb(66,81,102)" stroke-width="2" points="783.72,-1342.53 792.43,-1336.5 781.86,-1335.78 783.72,-1342.53" style=""/>
+<path fill="none" stroke="white" stroke-width="2" d="M533.12,-1472.47C567.27,-1474.05 625.62,-1471.74 664.1,-1443 686.71,-1426.11 671.71,-1405.52 692.1,-1386 717.36,-1361.8 755.01,-1347.25 782.46,-1339.25" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="783.72,-1342.53 792.43,-1336.5 781.86,-1335.78 783.72,-1342.53" style=""/>
 </g>
 <!-- mintingAllowedAmount.sub -->
 <g id="node83" class="node" pointer-events="visible" data-name="mintingAllowedAmount.sub">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="818.45" cy="-1192" rx="27" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="818.45" cy="-1192" rx="27" ry="18" style=""/>
 <text text-anchor="middle" x="818.45" y="-1187.8" font-family="Times,serif" font-size="14.00" style="">sub</text>
 </g>
 <!-- FiatTokenV1.mint&#45;&gt;mintingAllowedAmount.sub -->
 <g id="edge13" class="edge" data-name="FiatTokenV1.mint-&gt;mintingAllowedAmount.sub">
 
-<path fill="none" stroke="rgb(66,81,102)" stroke-width="2" d="M532.57,-1474.09C568.08,-1477.77 629.91,-1478.11 664.1,-1443 725.48,-1379.95 638.87,-1317.07 692.1,-1247 713.67,-1218.6 753.03,-1204.6 781.9,-1197.87" style=""/>
-<polygon fill="rgb(66,81,102)" stroke="rgb(66,81,102)" stroke-width="2" points="782.97,-1201.22 792.01,-1195.71 781.5,-1194.38 782.97,-1201.22" style=""/>
+<path fill="none" stroke="white" stroke-width="2" d="M532.57,-1474.09C568.08,-1477.77 629.91,-1478.11 664.1,-1443 725.48,-1379.95 638.87,-1317.07 692.1,-1247 713.67,-1218.6 753.03,-1204.6 781.9,-1197.87" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="782.97,-1201.22 792.01,-1195.71 781.5,-1194.38 782.97,-1201.22" style=""/>
 </g>
 <!-- FiatTokenV1.onlyMasterMinter -->
 <g id="node21" class="node" pointer-events="visible" data-name="FiatTokenV1.onlyMasterMinter">
 
-<polygon fill="rgb(65,73,86)" stroke="rgb(44,75,94)" stroke-width="3" points="254.5,-2006.54 254.5,-2021.46 202.94,-2032 130.04,-2032 78.49,-2021.46 78.49,-2006.54 130.04,-1996 202.94,-1996 254.5,-2006.54" style=""/>
-<polygon fill="none" stroke="rgb(44,75,94)" stroke-width="3" points="258.5,-2003.28 258.5,-2024.72 203.35,-2036 129.63,-2036 74.49,-2024.72 74.49,-2003.28 129.63,-1992 203.35,-1992 258.5,-2003.28" style=""/>
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="254.5,-2006.54 254.5,-2021.46 202.94,-2032 130.04,-2032 78.49,-2021.46 78.49,-2006.54 130.04,-1996 202.94,-1996 254.5,-2006.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="258.5,-2003.28 258.5,-2024.72 203.35,-2036 129.63,-2036 74.49,-2024.72 74.49,-2003.28 129.63,-1992 203.35,-1992 258.5,-2003.28" style=""/>
 <text text-anchor="middle" x="166.49" y="-2009.8" font-family="Times,serif" font-size="14.00" style="">onlyMasterMinter</text>
 </g>
 <!-- FiatTokenV1.minterAllowance -->
 <g id="node22" class="node" pointer-events="visible" data-name="FiatTokenV1.minterAllowance">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-1956" rx="78.15" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-1956" rx="78.15" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-1951.8" font-family="Times,serif" font-size="14.00" style="">minterAllowance</text>
 </g>
 <!-- FiatTokenV1.isMinter -->
 <g id="node23" class="node" pointer-events="visible" data-name="FiatTokenV1.isMinter">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-1902" rx="43.52" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-1902" rx="43.52" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-1897.8" font-family="Times,serif" font-size="14.00" style="">isMinter</text>
 </g>
 <!-- FiatTokenV1.allowance -->
 <g id="node24" class="node" pointer-events="visible" data-name="FiatTokenV1.allowance">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-1848" rx="50.36" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-1848" rx="50.36" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-1843.8" font-family="Times,serif" font-size="14.00" style="">allowance</text>
 </g>
 <!-- FiatTokenV1.totalSupply -->
 <g id="node25" class="node" pointer-events="visible" data-name="FiatTokenV1.totalSupply">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-1794" rx="55.64" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-1794" rx="55.64" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-1789.8" font-family="Times,serif" font-size="14.00" style="">totalSupply</text>
 </g>
 <!-- FiatTokenV1.balanceOf -->
 <g id="node26" class="node" pointer-events="visible" data-name="FiatTokenV1.balanceOf">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-1740" rx="50.92" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-1740" rx="50.92" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-1735.8" font-family="Times,serif" font-size="14.00" style="">balanceOf</text>
 </g>
 <!-- FiatTokenV1.approve -->
 <g id="node27" class="node" pointer-events="visible" data-name="FiatTokenV1.approve">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-1686" rx="42.28" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-1686" rx="42.28" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-1681.8" font-family="Times,serif" font-size="14.00" style="">approve</text>
 </g>
 <!-- FiatTokenV1._approve -->
 <g id="node28" class="node" pointer-events="visible" data-name="FiatTokenV1._approve">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="504.54" cy="-1686" rx="46.93" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="504.54" cy="-1686" rx="46.93" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-1681.8" font-family="Times,serif" font-size="14.00" style="">_approve</text>
 </g>
 <!-- FiatTokenV1.approve&#45;&gt;FiatTokenV1._approve -->
 <g id="edge15" class="edge" data-name="FiatTokenV1.approve-&gt;FiatTokenV1._approve">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M208.7,-1686C268.63,-1686 380.02,-1686 447.4,-1686" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="447.42,-1689.5 457.42,-1686 447.42,-1682.5 447.42,-1689.5" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M208.7,-1686C268.63,-1686 380.02,-1686 447.4,-1686" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="447.42,-1689.5 457.42,-1686 447.42,-1682.5 447.42,-1689.5" style=""/>
 </g>
 <!-- FiatTokenV1.Approval -->
 <g id="node38" class="node" pointer-events="visible" data-name="FiatTokenV1.Approval">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="818.45" cy="-1686" rx="47.52" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="818.45" cy="-1686" rx="47.52" ry="18" style=""/>
 <text text-anchor="middle" x="818.45" y="-1681.8" font-family="Times,serif" font-size="14.00" style="">Approval</text>
 </g>
 <!-- FiatTokenV1._approve&#45;&gt;FiatTokenV1.Approval -->
 <g id="edge16" class="edge" data-name="FiatTokenV1._approve-&gt;FiatTokenV1.Approval">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M551.56,-1686C607.15,-1686 700.65,-1686 760.66,-1686" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="760.73,-1689.5 770.73,-1686 760.73,-1682.5 760.73,-1689.5" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M551.56,-1686C607.15,-1686 700.65,-1686 760.66,-1686" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="760.73,-1689.5 770.73,-1686 760.73,-1682.5 760.73,-1689.5" style=""/>
 </g>
 <!-- FiatTokenV1.transferFrom -->
 <g id="node29" class="node" pointer-events="visible" data-name="FiatTokenV1.transferFrom">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-1632" rx="61.41" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-1632" rx="61.41" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-1627.8" font-family="Times,serif" font-size="14.00" style="">transferFrom</text>
 </g>
 <!-- FiatTokenV1._transfer -->
 <g id="node31" class="node" pointer-events="visible" data-name="FiatTokenV1._transfer">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="504.54" cy="-1578" rx="45.21" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="504.54" cy="-1578" rx="45.21" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-1573.8" font-family="Times,serif" font-size="14.00" style="">_transfer</text>
 </g>
 <!-- FiatTokenV1.transferFrom&#45;&gt;FiatTokenV1._transfer -->
 <g id="edge17" class="edge" data-name="FiatTokenV1.transferFrom-&gt;FiatTokenV1._transfer">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M220.74,-1623.44C284.2,-1613.25 389.51,-1596.32 452.15,-1586.26" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="452.88,-1589.69 462.19,-1584.64 451.77,-1582.77 452.88,-1589.69" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M220.74,-1623.44C284.2,-1613.25 389.51,-1596.32 452.15,-1586.26" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="452.88,-1589.69 462.19,-1584.64 451.77,-1582.77 452.88,-1589.69" style=""/>
 </g>
 <!-- FiatTokenV1.transfer -->
 <g id="node30" class="node" pointer-events="visible" data-name="FiatTokenV1.transfer">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-1578" rx="40.55" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-1578" rx="40.55" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-1573.8" font-family="Times,serif" font-size="14.00" style="">transfer</text>
 </g>
 <!-- FiatTokenV1.transfer&#45;&gt;FiatTokenV1._transfer -->
 <g id="edge18" class="edge" data-name="FiatTokenV1.transfer-&gt;FiatTokenV1._transfer">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M207.03,-1578C267.02,-1578 381.2,-1578 449.03,-1578" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="449.1,-1581.5 459.1,-1578 449.1,-1574.5 449.1,-1581.5" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M207.03,-1578C267.02,-1578 381.2,-1578 449.03,-1578" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="449.1,-1581.5 459.1,-1578 449.1,-1574.5 449.1,-1581.5" style=""/>
 </g>
 <!-- FiatTokenV1._transfer&#45;&gt;FiatTokenV1.Transfer -->
 <g id="edge19" class="edge" data-name="FiatTokenV1._transfer-&gt;FiatTokenV1.Transfer">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M539.22,-1566.34C596.33,-1546.56 712.1,-1506.48 774.79,-1484.77" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="776.08,-1488.03 784.38,-1481.45 773.79,-1481.41 776.08,-1488.03" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M539.22,-1566.34C596.33,-1546.56 712.1,-1506.48 774.79,-1484.77" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="776.08,-1488.03 784.38,-1481.45 773.79,-1481.41 776.08,-1488.03" style=""/>
 </g>
 <!-- FiatTokenV1.configureMinter -->
 <g id="node32" class="node" pointer-events="visible" data-name="FiatTokenV1.configureMinter">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-1524" rx="74.14" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-1524" rx="74.14" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-1519.8" font-family="Times,serif" font-size="14.00" style="">configureMinter</text>
 </g>
 <!-- FiatTokenV1.removeMinter -->
 <g id="node33" class="node" pointer-events="visible" data-name="FiatTokenV1.removeMinter">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-1470" rx="66.05" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-1470" rx="66.05" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-1465.8" font-family="Times,serif" font-size="14.00" style="">removeMinter</text>
 </g>
 <!-- FiatTokenV1.burn -->
 <g id="node34" class="node" pointer-events="visible" data-name="FiatTokenV1.burn">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="504.54" cy="-1416" rx="28.98" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="504.54" cy="-1416" rx="28.98" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-1411.8" font-family="Times,serif" font-size="14.00" style="">burn</text>
 </g>
 <!-- FiatTokenV1.burn&#45;&gt;FiatTokenV1.Transfer -->
 <g id="edge22" class="edge" data-name="FiatTokenV1.burn-&gt;FiatTokenV1.Transfer">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M532.48,-1420.54C564.03,-1425.87 617.87,-1435 664.1,-1443 698.77,-1449 737.82,-1455.88 767.84,-1461.19" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="767.6,-1464.71 778.06,-1463 768.82,-1457.81 767.6,-1464.71" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M532.48,-1420.54C564.03,-1425.87 617.87,-1435 664.1,-1443 698.77,-1449 737.82,-1455.88 767.84,-1461.19" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="767.6,-1464.71 778.06,-1463 768.82,-1457.81 767.6,-1464.71" style=""/>
 </g>
 <!-- totalSupply_.sub -->
 <g id="node82" class="node" pointer-events="visible" data-name="totalSupply_.sub">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="818.45" cy="-1277" rx="27" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="818.45" cy="-1277" rx="27" ry="18" style=""/>
 <text text-anchor="middle" x="818.45" y="-1272.8" font-family="Times,serif" font-size="14.00" style="">sub</text>
 </g>
 <!-- FiatTokenV1.burn&#45;&gt;totalSupply_.sub -->
 <g id="edge20" class="edge" data-name="FiatTokenV1.burn-&gt;totalSupply_.sub">
 
-<path fill="none" stroke="rgb(66,81,102)" stroke-width="2" d="M523.54,-1402.39C555.66,-1378.78 625.7,-1330.25 692.1,-1304 721.21,-1292.49 756.16,-1285.48 781.76,-1281.5" style=""/>
-<polygon fill="rgb(66,81,102)" stroke="rgb(66,81,102)" stroke-width="2" points="782.38,-1284.94 791.76,-1280.02 781.36,-1278.02 782.38,-1284.94" style=""/>
+<path fill="none" stroke="white" stroke-width="2" d="M523.54,-1402.39C555.66,-1378.78 625.7,-1330.25 692.1,-1304 721.21,-1292.49 756.16,-1285.48 781.76,-1281.5" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="782.38,-1284.94 791.76,-1280.02 781.36,-1278.02 782.38,-1284.94" style=""/>
 </g>
 <!-- balance.sub -->
 <g id="node84" class="node" pointer-events="visible" data-name="balance.sub">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="818.45" cy="-1107" rx="27" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="818.45" cy="-1107" rx="27" ry="18" style=""/>
 <text text-anchor="middle" x="818.45" y="-1102.8" font-family="Times,serif" font-size="14.00" style="">sub</text>
 </g>
 <!-- FiatTokenV1.burn&#45;&gt;balance.sub -->
 <g id="edge21" class="edge" data-name="FiatTokenV1.burn-&gt;balance.sub">
 
-<path fill="none" stroke="rgb(66,81,102)" stroke-width="2" d="M514.04,-1398.78C536.94,-1354 604.13,-1232.47 692.1,-1162 719.23,-1140.26 756.3,-1125.41 783.07,-1116.67" style=""/>
-<polygon fill="rgb(66,81,102)" stroke="rgb(66,81,102)" stroke-width="2" points="784.3,-1119.95 792.79,-1113.62 782.2,-1113.27 784.3,-1119.95" style=""/>
+<path fill="none" stroke="white" stroke-width="2" d="M514.04,-1398.78C536.94,-1354 604.13,-1232.47 692.1,-1162 719.23,-1140.26 756.3,-1125.41 783.07,-1116.67" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="784.3,-1119.95 792.79,-1113.62 782.2,-1113.27 784.3,-1119.95" style=""/>
 </g>
 <!-- FiatTokenV1.updateMasterMinter -->
 <g id="node35" class="node" pointer-events="visible" data-name="FiatTokenV1.updateMasterMinter">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-1416" rx="89.75" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-1416" rx="89.75" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-1411.8" font-family="Times,serif" font-size="14.00" style="">updateMasterMinter</text>
 </g>
 <!-- AbstractFiatTokenV1._approve -->
 <g id="node39" class="node" pointer-events="visible" data-name="AbstractFiatTokenV1._approve">
 
-<ellipse fill="rgb(65,75,90)" stroke="rgb(65,75,90)" stroke-width="3" cx="166.49" cy="-2273" rx="46.93" ry="18" style=""/>
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="166.49" cy="-2273" rx="46.93" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-2268.8" font-family="Times,serif" font-size="14.00" style="">_approve</text>
 </g>
 <!-- AbstractFiatTokenV1._transfer -->
 <g id="node40" class="node" pointer-events="visible" data-name="AbstractFiatTokenV1._transfer">
 
-<ellipse fill="rgb(65,75,90)" stroke="rgb(65,75,90)" stroke-width="3" cx="166.49" cy="-2219" rx="45.21" ry="18" style=""/>
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="166.49" cy="-2219" rx="45.21" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-2214.8" font-family="Times,serif" font-size="14.00" style="">_transfer</text>
 </g>
 <!-- Ownable.&lt;Constructor&gt; -->
 <g id="node41" class="node" pointer-events="visible" data-name="Ownable.&lt;Constructor&gt;">
 
-<ellipse fill="rgb(66,70,92)" stroke="rgb(66,70,92)" stroke-width="3" cx="166.49" cy="-2528" rx="67.55" ry="18" style=""/>
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="166.49" cy="-2528" rx="67.55" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-2523.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
 </g>
 <!-- Ownable.setOwner -->
 <g id="node43" class="node" pointer-events="visible" data-name="Ownable.setOwner">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="504.54" cy="-2443" rx="48.08" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="504.54" cy="-2443" rx="48.08" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-2438.8" font-family="Times,serif" font-size="14.00" style="">setOwner</text>
 </g>
 <!-- Ownable.&lt;Constructor&gt;&#45;&gt;Ownable.setOwner -->
 <g id="edge23" class="edge" data-name="Ownable.&lt;Constructor&gt;-&gt;Ownable.setOwner">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M225.7,-2519.19C253.5,-2514.55 287.14,-2508.31 316.98,-2501 366.28,-2488.93 421.68,-2471.16 459.21,-2458.47" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="460.49,-2461.73 468.83,-2455.2 458.23,-2455.11 460.49,-2461.73" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M225.7,-2519.19C253.5,-2514.55 287.14,-2508.31 316.98,-2501 366.28,-2488.93 421.68,-2471.16 459.21,-2458.47" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="460.49,-2461.73 468.83,-2455.2 458.23,-2455.11 460.49,-2461.73" style=""/>
 </g>
 <!-- Ownable.owner -->
 <g id="node42" class="node" pointer-events="visible" data-name="Ownable.owner">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-2474" rx="35.34" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-2474" rx="35.34" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-2469.8" font-family="Times,serif" font-size="14.00" style="">owner</text>
 </g>
 <!-- Ownable.onlyOwner -->
 <g id="node44" class="node" pointer-events="visible" data-name="Ownable.onlyOwner">
 
-<polygon fill="rgb(65,73,86)" stroke="rgb(44,75,94)" stroke-width="3" points="225.44,-2408.54 225.44,-2423.46 190.91,-2434 142.08,-2434 107.55,-2423.46 107.55,-2408.54 142.08,-2398 190.91,-2398 225.44,-2408.54" style=""/>
-<polygon fill="none" stroke="rgb(44,75,94)" stroke-width="3" points="229.44,-2405.58 229.44,-2426.42 191.5,-2438 141.48,-2438 103.55,-2426.42 103.55,-2405.58 141.48,-2394 191.5,-2394 229.44,-2405.58" style=""/>
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="225.44,-2408.54 225.44,-2423.46 190.91,-2434 142.08,-2434 107.55,-2423.46 107.55,-2408.54 142.08,-2398 190.91,-2398 225.44,-2408.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="229.44,-2405.58 229.44,-2426.42 191.5,-2438 141.48,-2438 103.55,-2426.42 103.55,-2405.58 141.48,-2394 191.5,-2394 229.44,-2405.58" style=""/>
 <text text-anchor="middle" x="166.49" y="-2411.8" font-family="Times,serif" font-size="14.00" style="">onlyOwner</text>
 </g>
 <!-- Ownable.transferOwnership -->
 <g id="node45" class="node" pointer-events="visible" data-name="Ownable.transferOwnership">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-2358" rx="82.81" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-2358" rx="82.81" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-2353.8" font-family="Times,serif" font-size="14.00" style="">transferOwnership</text>
 </g>
 <!-- Ownable.transferOwnership&#45;&gt;Ownable.setOwner -->
 <g id="edge24" class="edge" data-name="Ownable.transferOwnership-&gt;Ownable.setOwner">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M234.84,-2368.36C260.67,-2372.8 290.34,-2378.48 316.98,-2385 366.28,-2397.07 421.68,-2414.84 459.21,-2427.53" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="458.23,-2430.89 468.83,-2430.8 460.49,-2424.27 458.23,-2430.89" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M234.84,-2368.36C260.67,-2372.8 290.34,-2378.48 316.98,-2385 366.28,-2397.07 421.68,-2414.84 459.21,-2427.53" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="458.23,-2430.89 468.83,-2430.8 460.49,-2424.27 458.23,-2430.89" style=""/>
 </g>
 <!-- Pausable.whenNotPaused -->
 <g id="node46" class="node" pointer-events="visible" data-name="Pausable.whenNotPaused">
 
-<polygon fill="rgb(65,73,86)" stroke="rgb(44,75,94)" stroke-width="3" points="246.25,-2833.54 246.25,-2848.46 199.53,-2859 133.45,-2859 86.73,-2848.46 86.73,-2833.54 133.45,-2823 199.53,-2823 246.25,-2833.54" style=""/>
-<polygon fill="none" stroke="rgb(44,75,94)" stroke-width="3" points="250.25,-2830.35 250.25,-2851.65 199.97,-2863 133.01,-2863 82.74,-2851.65 82.74,-2830.35 133.01,-2819 199.97,-2819 250.25,-2830.35" style=""/>
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="246.25,-2833.54 246.25,-2848.46 199.53,-2859 133.45,-2859 86.73,-2848.46 86.73,-2833.54 133.45,-2823 199.53,-2823 246.25,-2833.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="250.25,-2830.35 250.25,-2851.65 199.97,-2863 133.01,-2863 82.74,-2851.65 82.74,-2830.35 133.01,-2819 199.97,-2819 250.25,-2830.35" style=""/>
 <text text-anchor="middle" x="166.49" y="-2836.8" font-family="Times,serif" font-size="14.00" style="">whenNotPaused</text>
 </g>
 <!-- Pausable.onlyPauser -->
 <g id="node47" class="node" pointer-events="visible" data-name="Pausable.onlyPauser">
 
-<polygon fill="rgb(65,73,86)" stroke="rgb(44,75,94)" stroke-width="3" points="224.79,-2771.54 224.79,-2786.46 190.64,-2797 142.34,-2797 108.19,-2786.46 108.19,-2771.54 142.34,-2761 190.64,-2761 224.79,-2771.54" style=""/>
-<polygon fill="none" stroke="rgb(44,75,94)" stroke-width="3" points="228.78,-2768.59 228.78,-2789.41 191.24,-2801 141.74,-2801 104.2,-2789.41 104.2,-2768.59 141.74,-2757 191.24,-2757 228.78,-2768.59" style=""/>
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="224.79,-2771.54 224.79,-2786.46 190.64,-2797 142.34,-2797 108.19,-2786.46 108.19,-2771.54 142.34,-2761 190.64,-2761 224.79,-2771.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="228.78,-2768.59 228.78,-2789.41 191.24,-2801 141.74,-2801 104.2,-2789.41 104.2,-2768.59 141.74,-2757 191.24,-2757 228.78,-2768.59" style=""/>
 <text text-anchor="middle" x="166.49" y="-2774.8" font-family="Times,serif" font-size="14.00" style="">onlyPauser</text>
 </g>
 <!-- Pausable.pause -->
 <g id="node48" class="node" pointer-events="visible" data-name="Pausable.pause">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-2721" rx="33.05" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-2721" rx="33.05" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-2716.8" font-family="Times,serif" font-size="14.00" style="">pause</text>
 </g>
 <!-- Pausable.unpause -->
 <g id="node49" class="node" pointer-events="visible" data-name="Pausable.unpause">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-2667" rx="42.86" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-2667" rx="42.86" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-2662.8" font-family="Times,serif" font-size="14.00" style="">unpause</text>
 </g>
 <!-- Pausable.updatePauser -->
 <g id="node50" class="node" pointer-events="visible" data-name="Pausable.updatePauser">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-2613" rx="62.55" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-2613" rx="62.55" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-2608.8" font-family="Times,serif" font-size="14.00" style="">updatePauser</text>
 </g>
 <!-- Blacklistable.onlyBlacklister -->
 <g id="node51" class="node" pointer-events="visible" data-name="Blacklistable.onlyBlacklister">
 
-<polygon fill="rgb(65,73,86)" stroke="rgb(44,75,94)" stroke-width="3" points="242.12,-3204.54 242.12,-3219.46 197.82,-3230 135.16,-3230 90.86,-3219.46 90.86,-3204.54 135.16,-3194 197.82,-3194 242.12,-3204.54" style=""/>
-<polygon fill="none" stroke="rgb(44,75,94)" stroke-width="3" points="246.11,-3201.38 246.11,-3222.62 198.29,-3234 134.7,-3234 86.87,-3222.62 86.87,-3201.38 134.7,-3190 198.29,-3190 246.11,-3201.38" style=""/>
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="242.12,-3204.54 242.12,-3219.46 197.82,-3230 135.16,-3230 90.86,-3219.46 90.86,-3204.54 135.16,-3194 197.82,-3194 242.12,-3204.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="246.11,-3201.38 246.11,-3222.62 198.29,-3234 134.7,-3234 86.87,-3222.62 86.87,-3201.38 134.7,-3190 198.29,-3190 246.11,-3201.38" style=""/>
 <text text-anchor="middle" x="166.49" y="-3207.8" font-family="Times,serif" font-size="14.00" style="">onlyBlacklister</text>
 </g>
 <!-- Blacklistable.notBlacklisted -->
 <g id="node52" class="node" pointer-events="visible" data-name="Blacklistable.notBlacklisted">
 
-<polygon fill="rgb(65,73,86)" stroke="rgb(44,75,94)" stroke-width="3" points="238.66,-3142.54 238.66,-3157.46 196.38,-3168 136.6,-3168 94.32,-3157.46 94.32,-3142.54 136.6,-3132 196.38,-3132 238.66,-3142.54" style=""/>
-<polygon fill="none" stroke="rgb(44,75,94)" stroke-width="3" points="242.65,-3139.42 242.65,-3160.58 196.87,-3172 136.11,-3172 90.33,-3160.58 90.33,-3139.42 136.11,-3128 196.87,-3128 242.65,-3139.42" style=""/>
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="238.66,-3142.54 238.66,-3157.46 196.38,-3168 136.6,-3168 94.32,-3157.46 94.32,-3142.54 136.6,-3132 196.38,-3132 238.66,-3142.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="242.65,-3139.42 242.65,-3160.58 196.87,-3172 136.11,-3172 90.33,-3160.58 90.33,-3139.42 136.11,-3128 196.87,-3128 242.65,-3139.42" style=""/>
 <text text-anchor="middle" x="166.49" y="-3145.8" font-family="Times,serif" font-size="14.00" style="">notBlacklisted</text>
 </g>
 <!-- Blacklistable.isBlacklisted -->
 <g id="node53" class="node" pointer-events="visible" data-name="Blacklistable.isBlacklisted">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-3092" rx="60.85" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-3092" rx="60.85" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-3087.8" font-family="Times,serif" font-size="14.00" style="">isBlacklisted</text>
 </g>
 <!-- Blacklistable.blacklist -->
 <g id="node54" class="node" pointer-events="visible" data-name="Blacklistable.blacklist">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-3038" rx="43.51" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-3038" rx="43.51" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-3033.8" font-family="Times,serif" font-size="14.00" style="">blacklist</text>
 </g>
 <!-- Blacklistable.unBlacklist -->
 <g id="node55" class="node" pointer-events="visible" data-name="Blacklistable.unBlacklist">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-2984" rx="55.05" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-2984" rx="55.05" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-2979.8" font-family="Times,serif" font-size="14.00" style="">unBlacklist</text>
 </g>
 <!-- Blacklistable.updateBlacklister -->
 <g id="node56" class="node" pointer-events="visible" data-name="Blacklistable.updateBlacklister">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-2930" rx="78.72" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-2930" rx="78.72" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-2925.8" font-family="Times,serif" font-size="14.00" style="">updateBlacklister</text>
 </g>
 <!-- Rescuable.rescuer -->
 <g id="node57" class="node" pointer-events="visible" data-name="Rescuable.rescuer">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-3471" rx="38.83" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-3471" rx="38.83" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-3466.8" font-family="Times,serif" font-size="14.00" style="">rescuer</text>
 </g>
 <!-- Rescuable.onlyRescuer -->
 <g id="node58" class="node" pointer-events="visible" data-name="Rescuable.onlyRescuer">
 
-<polygon fill="rgb(65,73,86)" stroke="rgb(44,75,94)" stroke-width="3" points="230.87,-3405.54 230.87,-3420.46 193.16,-3431 139.83,-3431 102.12,-3420.46 102.12,-3405.54 139.83,-3395 193.16,-3395 230.87,-3405.54" style=""/>
-<polygon fill="none" stroke="rgb(44,75,94)" stroke-width="3" points="234.88,-3402.51 234.88,-3423.49 193.71,-3435 139.27,-3435 98.1,-3423.49 98.1,-3402.51 139.27,-3391 193.71,-3391 234.88,-3402.51" style=""/>
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="230.87,-3405.54 230.87,-3420.46 193.16,-3431 139.83,-3431 102.12,-3420.46 102.12,-3405.54 139.83,-3395 193.16,-3395 230.87,-3405.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="234.88,-3402.51 234.88,-3423.49 193.71,-3435 139.27,-3435 98.1,-3423.49 98.1,-3402.51 139.27,-3391 193.71,-3391 234.88,-3402.51" style=""/>
 <text text-anchor="middle" x="166.49" y="-3408.8" font-family="Times,serif" font-size="14.00" style="">onlyRescuer</text>
 </g>
 <!-- Rescuable.rescueERC20 -->
 <g id="node59" class="node" pointer-events="visible" data-name="Rescuable.rescueERC20">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-3355" rx="64.27" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-3355" rx="64.27" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-3350.8" font-family="Times,serif" font-size="14.00" style="">rescueERC20</text>
 </g>
 <!-- IERC20.safeTransfer -->
 <g id="node85" class="node" pointer-events="visible" data-name="IERC20.safeTransfer">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="504.54" cy="-3355" rx="59.08" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="504.54" cy="-3355" rx="59.08" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-3350.8" font-family="Times,serif" font-size="14.00" style="">safeTransfer</text>
 </g>
 <!-- Rescuable.rescueERC20&#45;&gt;IERC20.safeTransfer -->
 <g id="edge25" class="edge" data-name="Rescuable.rescueERC20-&gt;IERC20.safeTransfer">
 
-<path fill="none" stroke="rgb(66,81,102)" stroke-width="2" d="M230.7,-3355C288.93,-3355 375.13,-3355 435,-3355" style=""/>
-<polygon fill="rgb(66,81,102)" stroke="rgb(66,81,102)" stroke-width="2" points="435.11,-3358.5 445.11,-3355 435.11,-3351.5 435.11,-3358.5" style=""/>
+<path fill="none" stroke="white" stroke-width="2" d="M230.7,-3355C288.93,-3355 375.13,-3355 435,-3355" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="435.11,-3358.5 445.11,-3355 435.11,-3351.5 435.11,-3358.5" style=""/>
 </g>
 <!-- Rescuable.updateRescuer -->
 <g id="node60" class="node" pointer-events="visible" data-name="Rescuable.updateRescuer">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-3301" rx="67.76" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-3301" rx="67.76" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-3296.8" font-family="Times,serif" font-size="14.00" style="">updateRescuer</text>
 </g>
 <!-- AbstractFiatTokenV2._increaseAllowance -->
 <g id="node61" class="node" pointer-events="visible" data-name="AbstractFiatTokenV2._increaseAllowance">
 
-<ellipse fill="rgb(65,75,90)" stroke="rgb(65,75,90)" stroke-width="3" cx="166.49" cy="-3610" rx="89.15" ry="18" style=""/>
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="166.49" cy="-3610" rx="89.15" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-3605.8" font-family="Times,serif" font-size="14.00" style="">_increaseAllowance</text>
 </g>
 <!-- AbstractFiatTokenV2._decreaseAllowance -->
 <g id="node62" class="node" pointer-events="visible" data-name="AbstractFiatTokenV2._decreaseAllowance">
 
-<ellipse fill="rgb(65,75,90)" stroke="rgb(65,75,90)" stroke-width="3" cx="166.49" cy="-3556" rx="90.86" ry="18" style=""/>
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="166.49" cy="-3556" rx="90.86" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-3551.8" font-family="Times,serif" font-size="14.00" style="">_decreaseAllowance</text>
 </g>
 <!-- EIP712.recover -->
@@ -690,7 +690,7 @@
 <!-- EIP3009.authorizationState -->
 <g id="node66" class="node" pointer-events="visible" data-name="EIP3009.authorizationState">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-474" rx="81.09" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-474" rx="81.09" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-469.8" font-family="Times,serif" font-size="14.00" style="">authorizationState</text>
 </g>
 <!-- EIP3009._transferWithAuthorization -->
@@ -744,44 +744,44 @@
 <!-- EIP3009._receiveWithAuthorization -->
 <g id="node68" class="node" pointer-events="visible" data-name="EIP3009._receiveWithAuthorization">
 
-<ellipse fill="rgb(65,75,90)" stroke="rgb(65,75,90)" stroke-width="3" cx="166.49" cy="-366" rx="116.87" ry="18" style=""/>
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="166.49" cy="-366" rx="116.87" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-361.8" font-family="Times,serif" font-size="14.00" style="">_receiveWithAuthorization</text>
 </g>
 <!-- EIP3009._receiveWithAuthorization&#45;&gt;EIP712.recover -->
 <g id="edge32" class="edge" data-name="EIP3009._receiveWithAuthorization-&gt;EIP712.recover">
 
-<path fill="none" stroke="rgb(66,81,102)" stroke-width="2" d="M277.45,-371.74C291.91,-376.36 305.62,-383.16 316.98,-393 355.23,-426.13 313.56,-469.29 352.98,-501 407.16,-544.57 595.19,-524.74 664.1,-534 700.13,-538.84 740.72,-545.52 771.09,-550.75" style=""/>
-<polygon fill="rgb(66,81,102)" stroke="rgb(66,81,102)" stroke-width="2" points="770.52,-554.2 780.97,-552.46 771.72,-547.31 770.52,-554.2" style=""/>
+<path fill="none" stroke="white" stroke-width="2" d="M277.45,-371.74C291.91,-376.36 305.62,-383.16 316.98,-393 355.23,-426.13 313.56,-469.29 352.98,-501 407.16,-544.57 595.19,-524.74 664.1,-534 700.13,-538.84 740.72,-545.52 771.09,-550.75" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="770.52,-554.2 780.97,-552.46 771.72,-547.31 770.52,-554.2" style=""/>
 </g>
 <!-- EIP3009._receiveWithAuthorization&#45;&gt;EIP3009._requireValidAuthorization -->
 <g id="edge31" class="edge" data-name="EIP3009._receiveWithAuthorization-&gt;EIP3009._requireValidAuthorization">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M283.61,-366C313.35,-366 345.5,-366 375.8,-366" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="375.99,-369.5 385.99,-366 375.99,-362.5 375.99,-369.5" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M283.61,-366C313.35,-366 345.5,-366 375.8,-366" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="375.99,-369.5 385.99,-366 375.99,-362.5 375.99,-369.5" style=""/>
 </g>
 <!-- EIP3009._receiveWithAuthorization&#45;&gt;EIP3009._markAuthorizationAsUsed -->
 <g id="edge33" class="edge" data-name="EIP3009._receiveWithAuthorization-&gt;EIP3009._markAuthorizationAsUsed">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M247.98,-378.93C297.32,-386.86 360.62,-397.03 411.87,-405.27" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="411.53,-408.76 421.96,-406.89 412.64,-401.85 411.53,-408.76" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M247.98,-378.93C297.32,-386.86 360.62,-397.03 411.87,-405.27" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="411.53,-408.76 421.96,-406.89 412.64,-401.85 411.53,-408.76" style=""/>
 </g>
 <!-- EIP3009._receiveWithAuthorization&#45;&gt;EIP3009._transfer -->
 <g id="edge34" class="edge" data-name="EIP3009._receiveWithAuthorization-&gt;EIP3009._transfer">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M247.98,-353.07C311.28,-342.89 397.58,-329.03 451.92,-320.29" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="452.7,-323.71 462.02,-318.67 451.59,-316.8 452.7,-323.71" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M247.98,-353.07C311.28,-342.89 397.58,-329.03 451.92,-320.29" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="452.7,-323.71 462.02,-318.67 451.59,-316.8 452.7,-323.71" style=""/>
 </g>
 <!-- EIP3009._cancelAuthorization -->
 <g id="node69" class="node" pointer-events="visible" data-name="EIP3009._cancelAuthorization">
 
-<ellipse fill="rgb(65,75,90)" stroke="rgb(65,75,90)" stroke-width="3" cx="504.54" cy="-474" rx="94.32" ry="18" style=""/>
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="504.54" cy="-474" rx="94.32" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-469.8" font-family="Times,serif" font-size="14.00" style="">_cancelAuthorization</text>
 </g>
 <!-- EIP3009._cancelAuthorization&#45;&gt;EIP712.recover -->
 <g id="edge36" class="edge" data-name="EIP3009._cancelAuthorization-&gt;EIP712.recover">
 
-<path fill="none" stroke="rgb(66,81,102)" stroke-width="2" d="M587.43,-482.7C612.84,-487.43 640.38,-494.74 664.1,-506 678.65,-512.91 677.68,-521.83 692.1,-529 716.21,-540.98 745.34,-548.33 769.45,-552.75" style=""/>
-<polygon fill="rgb(66,81,102)" stroke="rgb(66,81,102)" stroke-width="2" points="769,-556.22 779.45,-554.47 770.19,-549.32 769,-556.22" style=""/>
+<path fill="none" stroke="white" stroke-width="2" d="M587.43,-482.7C612.84,-487.43 640.38,-494.74 664.1,-506 678.65,-512.91 677.68,-521.83 692.1,-529 716.21,-540.98 745.34,-548.33 769.45,-552.75" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="769,-556.22 779.45,-554.47 770.19,-549.32 769,-556.22" style=""/>
 </g>
 <!-- EIP3009._requireUnusedAuthorization -->
 <g id="node70" class="node" pointer-events="visible" data-name="EIP3009._requireUnusedAuthorization">
@@ -792,8 +792,8 @@
 <!-- EIP3009._cancelAuthorization&#45;&gt;EIP3009._requireUnusedAuthorization -->
 <g id="edge35" class="edge" data-name="EIP3009._cancelAuthorization-&gt;EIP3009._requireUnusedAuthorization">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M575.8,-462.12C603.34,-457.44 635.21,-452 664.1,-447 685.02,-443.38 707.55,-439.43 728.72,-435.71" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="729.42,-439.14 738.66,-433.96 728.21,-432.25 729.42,-439.14" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M575.8,-462.12C603.34,-457.44 635.21,-452 664.1,-447 685.02,-443.38 707.55,-439.43 728.72,-435.71" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="729.42,-439.14 738.66,-433.96 728.21,-432.25 729.42,-439.14" style=""/>
 </g>
 <!-- EIP3009._requireValidAuthorization&#45;&gt;EIP3009._requireUnusedAuthorization -->
 <g id="edge37" class="edge" data-name="EIP3009._requireValidAuthorization-&gt;EIP3009._requireUnusedAuthorization">
@@ -804,85 +804,85 @@
 <!-- EIP2612.nonces -->
 <g id="node74" class="node" pointer-events="visible" data-name="EIP2612.nonces">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="504.54" cy="-227" rx="37.71" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="504.54" cy="-227" rx="37.71" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-222.8" font-family="Times,serif" font-size="14.00" style="">nonces</text>
 </g>
 <!-- EIP2612._permit -->
 <g id="node75" class="node" pointer-events="visible" data-name="EIP2612._permit">
 
-<ellipse fill="rgb(65,75,90)" stroke="rgb(65,75,90)" stroke-width="3" cx="504.54" cy="-173" rx="41.15" ry="18" style=""/>
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="504.54" cy="-173" rx="41.15" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-168.8" font-family="Times,serif" font-size="14.00" style="">_permit</text>
 </g>
 <!-- EIP2612._permit&#45;&gt;EIP712.recover -->
 <g id="edge38" class="edge" data-name="EIP2612._permit-&gt;EIP712.recover">
 
-<path fill="none" stroke="rgb(66,81,102)" stroke-width="2" d="M543.98,-167.59C580.5,-164.83 634.14,-167.42 664.1,-200 713.76,-254.01 644.25,-473.37 692.1,-529 710.65,-550.57 741.69,-558.11 768.23,-560.24" style=""/>
-<polygon fill="rgb(66,81,102)" stroke="rgb(66,81,102)" stroke-width="2" points="768.35,-563.75 778.53,-560.82 768.74,-556.77 768.35,-563.75" style=""/>
+<path fill="none" stroke="white" stroke-width="2" d="M543.98,-167.59C580.5,-164.83 634.14,-167.42 664.1,-200 713.76,-254.01 644.25,-473.37 692.1,-529 710.65,-550.57 741.69,-558.11 768.23,-560.24" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="768.35,-563.75 778.53,-560.82 768.74,-556.77 768.35,-563.75" style=""/>
 </g>
 <!-- EIP2612._approve -->
 <g id="node76" class="node" pointer-events="visible" data-name="EIP2612._approve">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="818.45" cy="-173" rx="46.93" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="818.45" cy="-173" rx="46.93" ry="18" style=""/>
 <text text-anchor="middle" x="818.45" y="-168.8" font-family="Times,serif" font-size="14.00" style="">_approve</text>
 </g>
 <!-- EIP2612._permit&#45;&gt;EIP2612._approve -->
 <g id="edge39" class="edge" data-name="EIP2612._permit-&gt;EIP2612._approve">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M545.68,-173C600.54,-173 699.21,-173 761.36,-173" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="761.38,-176.5 771.38,-173 761.38,-169.5 761.38,-176.5" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M545.68,-173C600.54,-173 699.21,-173 761.36,-173" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="761.38,-176.5 771.38,-173 761.38,-169.5 761.38,-176.5" style=""/>
 </g>
 <!-- FiatTokenUtil.&lt;Constructor&gt; -->
 <g id="node77" class="node" pointer-events="visible" data-name="FiatTokenUtil.&lt;Constructor&gt;">
 
-<ellipse fill="rgb(66,70,92)" stroke="rgb(66,70,92)" stroke-width="3" cx="166.49" cy="-3749" rx="67.55" ry="18" style=""/>
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="166.49" cy="-3749" rx="67.55" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-3744.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
 </g>
 <!-- FiatTokenUtil.transferWithMultipleAuthorizations -->
 <g id="node78" class="node" pointer-events="visible" data-name="FiatTokenUtil.transferWithMultipleAuthorizations">
 
-<ellipse fill="rgb(66,74,95)" stroke="rgb(66,74,95)" stroke-width="3" cx="166.49" cy="-3695" rx="150.48" ry="18" style=""/>
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="166.49" cy="-3695" rx="150.48" ry="18" style=""/>
 <text text-anchor="middle" x="166.49" y="-3690.8" font-family="Times,serif" font-size="14.00" style="">transferWithMultipleAuthorizations</text>
 </g>
 <!-- FiatTokenUtil._unpackAddresses -->
 <g id="node79" class="node" pointer-events="visible" data-name="FiatTokenUtil._unpackAddresses">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="504.54" cy="-3695" rx="83.39" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="504.54" cy="-3695" rx="83.39" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-3690.8" font-family="Times,serif" font-size="14.00" style="">_unpackAddresses</text>
 </g>
 <!-- FiatTokenUtil.transferWithMultipleAuthorizations&#45;&gt;FiatTokenUtil._unpackAddresses -->
 <g id="edge40" class="edge" data-name="FiatTokenUtil.transferWithMultipleAuthorizations-&gt;FiatTokenUtil._unpackAddresses">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M317.33,-3695C349.12,-3695 381.78,-3695 410.7,-3695" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="410.76,-3698.5 420.76,-3695 410.76,-3691.5 410.76,-3698.5" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M317.33,-3695C349.12,-3695 381.78,-3695 410.7,-3695" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="410.76,-3698.5 420.76,-3695 410.76,-3691.5 410.76,-3698.5" style=""/>
 </g>
 <!-- FiatTokenUtil._revertWithReasonFromReturnData -->
 <g id="node80" class="node" pointer-events="visible" data-name="FiatTokenUtil._revertWithReasonFromReturnData">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="504.54" cy="-3749" rx="151.61" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="504.54" cy="-3749" rx="151.61" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-3744.8" font-family="Times,serif" font-size="14.00" style="">_revertWithReasonFromReturnData</text>
 </g>
 <!-- FiatTokenUtil.transferWithMultipleAuthorizations&#45;&gt;FiatTokenUtil._revertWithReasonFromReturnData -->
 <g id="edge42" class="edge" data-name="FiatTokenUtil.transferWithMultipleAuthorizations-&gt;FiatTokenUtil._revertWithReasonFromReturnData">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M257.11,-3709.4C302.21,-3716.65 357.03,-3725.46 403.51,-3732.93" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="403.16,-3736.42 413.59,-3734.55 404.28,-3729.5 403.16,-3736.42" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M257.11,-3709.4C302.21,-3716.65 357.03,-3725.46 403.51,-3732.93" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="403.16,-3736.42 413.59,-3734.55 404.28,-3729.5 403.16,-3736.42" style=""/>
 </g>
 <!-- _fiatToken.call -->
 <g id="node86" class="node" pointer-events="visible" data-name="_fiatToken.call">
 
-<ellipse fill="rgb(65,73,86)" stroke="rgb(65,73,86)" stroke-width="3" cx="504.54" cy="-3610" rx="27" ry="18" style=""/>
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="504.54" cy="-3610" rx="27" ry="18" style=""/>
 <text text-anchor="middle" x="504.54" y="-3605.8" font-family="Times,serif" font-size="14.00" style="">call</text>
 </g>
 <!-- FiatTokenUtil.transferWithMultipleAuthorizations&#45;&gt;_fiatToken.call -->
 <g id="edge41" class="edge" data-name="FiatTokenUtil.transferWithMultipleAuthorizations-&gt;_fiatToken.call">
 
-<path fill="none" stroke="rgb(66,81,102)" stroke-width="2" d="M249.25,-3679.95C271.32,-3675.52 295.14,-3670.4 316.98,-3665 371.07,-3651.63 432.93,-3632.65 470.08,-3620.84" style=""/>
-<polygon fill="rgb(66,81,102)" stroke="rgb(66,81,102)" stroke-width="2" points="471.41,-3624.09 479.87,-3617.71 469.28,-3617.42 471.41,-3624.09" style=""/>
+<path fill="none" stroke="white" stroke-width="2" d="M249.25,-3679.95C271.32,-3675.52 295.14,-3670.4 316.98,-3665 371.07,-3651.63 432.93,-3632.65 470.08,-3620.84" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="471.41,-3624.09 479.87,-3617.71 469.28,-3617.42 471.41,-3624.09" style=""/>
 </g>
 <!-- key -->
 <g id="node87" class="node" pointer-events="visible" data-name="key">
 
-<polygon fill="rgb(65,73,86)" stroke="rgba(46,62,86,0.9)" stroke-width="3" points="231.49,-3904 101.49,-3904 101.49,-3816 231.49,-3816 231.49,-3904" style=""/>
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="231.49,-3904 101.49,-3904 101.49,-3816 231.49,-3816 231.49,-3904" style=""/>
 <text text-anchor="start" x="151.13" y="-3885.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
 <text text-anchor="start" x="147.24" y="-3865.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
 <text text-anchor="start" x="124.69" y="-3845.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
@@ -891,24 +891,24 @@
 <!-- key2 -->
 <g id="node88" class="node" pointer-events="visible" data-name="key2">
 
-<polygon fill="rgb(65,73,86)" stroke="rgba(46,62,86,0.9)" stroke-width="3" points="531.54,-3904 477.54,-3904 477.54,-3816 531.54,-3816 531.54,-3904" style=""/>
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="531.54,-3904 477.54,-3904 477.54,-3816 531.54,-3816 531.54,-3904" style=""/>
 <text text-anchor="start" x="494.54" y="-3885.4" font-family="Times,serif" font-size="14.00" style="">   </text>
 <text text-anchor="start" x="494.54" y="-3865.4" font-family="Times,serif" font-size="14.00" style="">   </text>
-<polygon fill="rgb(48,64,88)" stroke="rgba(46,62,86,0.9)" points="492.54,-3840 492.54,-3860 517.54,-3860 517.54,-3840 492.54,-3840" style=""/>
+<polygon fill="#445773" stroke="transparent" points="492.54,-3840 492.54,-3860 517.54,-3860 517.54,-3840 492.54,-3840" style=""/>
 <text text-anchor="start" x="494.54" y="-3845.4" font-family="Times,serif" font-size="14.00" style="">   </text>
-<polygon fill="none" stroke="rgb(64,67,88)" points="494.54,-3822 494.54,-3838 515.54,-3838 515.54,-3822 494.54,-3822" style=""/>
+<polygon fill="none" stroke="#e8726d" points="494.54,-3822 494.54,-3838 515.54,-3838 515.54,-3822 494.54,-3822" style=""/>
 </g>
 <!-- key&#45;&gt;key2 -->
 <g id="edge43" class="edge" data-name="key-&gt;key2">
 
-<path fill="none" stroke="rgb(44,75,94)" stroke-width="2" d="M224.49,-3890C339.7,-3890 371.04,-3890 481.33,-3890" style=""/>
-<polygon fill="rgb(44,75,94)" stroke="rgb(44,75,94)" stroke-width="2" points="481.54,-3893.5 491.54,-3890 481.54,-3886.5 481.54,-3893.5" style=""/>
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M224.49,-3890C339.7,-3890 371.04,-3890 481.33,-3890" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="481.54,-3893.5 491.54,-3890 481.54,-3886.5 481.54,-3893.5" style=""/>
 </g>
 <!-- key&#45;&gt;key2 -->
 <g id="edge44" class="edge" data-name="key-&gt;key2">
 
-<path fill="none" stroke="rgb(66,81,102)" stroke-width="2" d="M224.49,-3870C339.7,-3870 371.04,-3870 481.33,-3870" style=""/>
-<polygon fill="rgb(66,81,102)" stroke="rgb(66,81,102)" stroke-width="2" points="481.54,-3873.5 491.54,-3870 481.54,-3866.5 481.54,-3873.5" style=""/>
+<path fill="none" stroke="white" stroke-width="2" d="M224.49,-3870C339.7,-3870 371.04,-3870 481.33,-3870" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="481.54,-3873.5 491.54,-3870 481.54,-3866.5 481.54,-3873.5" style=""/>
 </g>
 </g>
 </svg>
