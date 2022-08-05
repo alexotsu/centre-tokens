@@ -1,0 +1,296 @@
+digraph G {
+  graph [ ratio = "auto", page = "100", compound =true, bgcolor = "#2e3e56" ];
+  node [ style = "filled", fillcolor = "#edad56", color = "#edad56", penwidth =3 ];
+  edge [ color = "#fcfcfc", penwidth =2, fontname = "helvetica Neue Ultra Light" ];
+subgraph "clusterFiatTokenV2_1" {
+  graph [ label = "FiatTokenV2_1", color = "#445773", fontcolor = "#f0f0f0", style = "rounded", bgcolor = "#445773" ];
+  "FiatTokenV2_1.initializeV2_1" [ label = "initializeV2_1", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV2_1.version" [ label = "version", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV2_1._transfer" [ label = "_transfer" ];
+}
+
+subgraph "clusterFiatTokenV2" {
+  graph [ label = "FiatTokenV2", color = "#445773", fontcolor = "#f0f0f0", style = "rounded", bgcolor = "#445773" ];
+  "FiatTokenV2.initializeV2" [ label = "initializeV2", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV2.increaseAllowance" [ label = "increaseAllowance", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV2.decreaseAllowance" [ label = "decreaseAllowance", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV2.transferWithAuthorization" [ label = "transferWithAuthorization", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV2.receiveWithAuthorization" [ label = "receiveWithAuthorization", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV2.cancelAuthorization" [ label = "cancelAuthorization", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV2.permit" [ label = "permit", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV2._increaseAllowance" [ label = "_increaseAllowance" ];
+  "FiatTokenV2._decreaseAllowance" [ label = "_decreaseAllowance" ];
+  "FiatTokenV2._transferWithAuthorization" [ label = "_transferWithAuthorization" ];
+  "FiatTokenV2._receiveWithAuthorization" [ label = "_receiveWithAuthorization" ];
+  "FiatTokenV2._cancelAuthorization" [ label = "_cancelAuthorization" ];
+  "FiatTokenV2._permit" [ label = "_permit" ];
+  "FiatTokenV2._approve" [ label = "_approve" ];
+}
+
+subgraph "clusterFiatTokenV1_1" {
+  graph [ label = "FiatTokenV1_1", color = "#445773", fontcolor = "#f0f0f0", style = "rounded", bgcolor = "#445773" ];
+}
+
+subgraph "clusterFiatTokenV1" {
+  graph [ label = "FiatTokenV1", color = "#445773", fontcolor = "#f0f0f0", style = "rounded", bgcolor = "#445773" ];
+  "FiatTokenV1.initialize" [ label = "initialize", color = "#FF9797", fillcolor = "#FF9797" ];
+  "FiatTokenV1.onlyMinters" [ label = "onlyMinters", color = "#1bc6a6", shape =doubleoctagon ];
+  "FiatTokenV1.mint" [ label = "mint", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV1.onlyMasterMinter" [ label = "onlyMasterMinter", color = "#1bc6a6", shape =doubleoctagon ];
+  "FiatTokenV1.minterAllowance" [ label = "minterAllowance", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV1.isMinter" [ label = "isMinter", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV1.allowance" [ label = "allowance", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV1.totalSupply" [ label = "totalSupply", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV1.balanceOf" [ label = "balanceOf", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV1.approve" [ label = "approve", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV1._approve" [ label = "_approve" ];
+  "FiatTokenV1.transferFrom" [ label = "transferFrom", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV1.transfer" [ label = "transfer", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV1._transfer" [ label = "_transfer" ];
+  "FiatTokenV1.configureMinter" [ label = "configureMinter", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV1.removeMinter" [ label = "removeMinter", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV1.burn" [ label = "burn", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV1.updateMasterMinter" [ label = "updateMasterMinter", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenV1.setOwner" [ label = "setOwner" ];
+  "FiatTokenV1.Transfer" [ label = "Transfer" ];
+  "FiatTokenV1.Approval" [ label = "Approval" ];
+}
+
+subgraph "clusterAbstractFiatTokenV1" {
+  graph [ label = "AbstractFiatTokenV1", color = "#445773", fontcolor = "#f0f0f0", style = "rounded", bgcolor = "#445773" ];
+  "AbstractFiatTokenV1._approve" [ label = "_approve", color = "#f2c383", fillcolor = "#f2c383" ];
+  "AbstractFiatTokenV1._transfer" [ label = "_transfer", color = "#f2c383", fillcolor = "#f2c383" ];
+}
+
+subgraph "clusterOwnable" {
+  graph [ label = "Ownable", color = "#445773", fontcolor = "#f0f0f0", style = "rounded", bgcolor = "#445773" ];
+  "Ownable.<Constructor>" [ label = "<Constructor>", color = "#FF9797", fillcolor = "#FF9797" ];
+  "Ownable.owner" [ label = "owner", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "Ownable.setOwner" [ label = "setOwner" ];
+  "Ownable.onlyOwner" [ label = "onlyOwner", color = "#1bc6a6", shape =doubleoctagon ];
+  "Ownable.transferOwnership" [ label = "transferOwnership", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+}
+
+subgraph "clusterPausable" {
+  graph [ label = "Pausable", color = "#445773", fontcolor = "#f0f0f0", style = "rounded", bgcolor = "#445773" ];
+  "Pausable.whenNotPaused" [ label = "whenNotPaused", color = "#1bc6a6", shape =doubleoctagon ];
+  "Pausable.onlyPauser" [ label = "onlyPauser", color = "#1bc6a6", shape =doubleoctagon ];
+  "Pausable.pause" [ label = "pause", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "Pausable.unpause" [ label = "unpause", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "Pausable.updatePauser" [ label = "updatePauser", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+}
+
+subgraph "clusterBlacklistable" {
+  graph [ label = "Blacklistable", color = "#445773", fontcolor = "#f0f0f0", style = "rounded", bgcolor = "#445773" ];
+  "Blacklistable.onlyBlacklister" [ label = "onlyBlacklister", color = "#1bc6a6", shape =doubleoctagon ];
+  "Blacklistable.notBlacklisted" [ label = "notBlacklisted", color = "#1bc6a6", shape =doubleoctagon ];
+  "Blacklistable.isBlacklisted" [ label = "isBlacklisted", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "Blacklistable.blacklist" [ label = "blacklist", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "Blacklistable.unBlacklist" [ label = "unBlacklist", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "Blacklistable.updateBlacklister" [ label = "updateBlacklister", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+}
+
+subgraph "clusterRescuable" {
+  graph [ label = "Rescuable", color = "#445773", fontcolor = "#f0f0f0", style = "rounded", bgcolor = "#445773" ];
+  "Rescuable.rescuer" [ label = "rescuer", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "Rescuable.onlyRescuer" [ label = "onlyRescuer", color = "#1bc6a6", shape =doubleoctagon ];
+  "Rescuable.rescueERC20" [ label = "rescueERC20", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "Rescuable.updateRescuer" [ label = "updateRescuer", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+}
+
+subgraph "clusterAbstractFiatTokenV2" {
+  graph [ label = "AbstractFiatTokenV2", color = "#445773", fontcolor = "#f0f0f0", style = "rounded", bgcolor = "#445773" ];
+  "AbstractFiatTokenV2._increaseAllowance" [ label = "_increaseAllowance", color = "#f2c383", fillcolor = "#f2c383" ];
+  "AbstractFiatTokenV2._decreaseAllowance" [ label = "_decreaseAllowance", color = "#f2c383", fillcolor = "#f2c383" ];
+}
+
+subgraph "clusterEIP712" {
+  graph [ label = "EIP712  (lib)", color = "#445773", fontcolor = "#f0f0f0", style = "rounded", bgcolor = "#445773" ];
+  "EIP712.makeDomainSeparator" [ label = "makeDomainSeparator", color = "#f2c383", fillcolor = "#f2c383" ];
+  "EIP712.recover" [ label = "recover", color = "#f2c383", fillcolor = "#f2c383" ];
+}
+
+subgraph "clusterECRecover" {
+  graph [ label = "ECRecover  (lib)", color = "#445773", fontcolor = "#f0f0f0", style = "rounded", bgcolor = "#445773" ];
+  "ECRecover.recover" [ label = "recover", color = "#f2c383", fillcolor = "#f2c383" ];
+}
+
+subgraph "clusterEIP712Domain" {
+  graph [ label = "EIP712Domain", color = "#445773", fontcolor = "#f0f0f0", style = "rounded", bgcolor = "#445773" ];
+}
+
+subgraph "clusterEIP3009" {
+  graph [ label = "EIP3009", color = "#445773", fontcolor = "#f0f0f0", style = "rounded", bgcolor = "#445773" ];
+  "EIP3009.authorizationState" [ label = "authorizationState", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "EIP3009._transferWithAuthorization" [ label = "_transferWithAuthorization", color = "#f2c383", fillcolor = "#f2c383" ];
+  "EIP3009._receiveWithAuthorization" [ label = "_receiveWithAuthorization", color = "#f2c383", fillcolor = "#f2c383" ];
+  "EIP3009._cancelAuthorization" [ label = "_cancelAuthorization", color = "#f2c383", fillcolor = "#f2c383" ];
+  "EIP3009._requireUnusedAuthorization" [ label = "_requireUnusedAuthorization" ];
+  "EIP3009._requireValidAuthorization" [ label = "_requireValidAuthorization" ];
+  "EIP3009._markAuthorizationAsUsed" [ label = "_markAuthorizationAsUsed" ];
+  "EIP3009._transfer" [ label = "_transfer" ];
+}
+
+subgraph "clusterEIP2612" {
+  graph [ label = "EIP2612", color = "#445773", fontcolor = "#f0f0f0", style = "rounded", bgcolor = "#445773" ];
+  "EIP2612.nonces" [ label = "nonces", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "EIP2612._permit" [ label = "_permit", color = "#f2c383", fillcolor = "#f2c383" ];
+  "EIP2612._approve" [ label = "_approve" ];
+}
+
+subgraph "clusterFiatTokenUtil" {
+  graph [ label = "FiatTokenUtil", color = "#445773", fontcolor = "#f0f0f0", style = "rounded", bgcolor = "#445773" ];
+  "FiatTokenUtil.<Constructor>" [ label = "<Constructor>", color = "#FF9797", fillcolor = "#FF9797" ];
+  "FiatTokenUtil.transferWithMultipleAuthorizations" [ label = "transferWithMultipleAuthorizations", color = "#ffbdb9", fillcolor = "#ffbdb9" ];
+  "FiatTokenUtil._unpackAddresses" [ label = "_unpackAddresses" ];
+  "FiatTokenUtil._revertWithReasonFromReturnData" [ label = "_revertWithReasonFromReturnData" ];
+}
+
+subgraph "clustertotalSupply_" {
+  graph [ label = "totalSupply_", color = "#e8726d", fontcolor = "#f0f0f0", style = "rounded,dashed", bgcolor = "#3b4b63" ];
+  "totalSupply_.add" [ label = "add" ];
+  "totalSupply_.sub" [ label = "sub" ];
+}
+
+subgraph "clustermintingAllowedAmount" {
+  graph [ label = "mintingAllowedAmount", color = "#e8726d", fontcolor = "#f0f0f0", style = "rounded,dashed", bgcolor = "#3b4b63" ];
+  "mintingAllowedAmount.sub" [ label = "sub" ];
+}
+
+subgraph "clusterbalance" {
+  graph [ label = "balance", color = "#e8726d", fontcolor = "#f0f0f0", style = "rounded,dashed", bgcolor = "#3b4b63" ];
+  "balance.sub" [ label = "sub" ];
+}
+
+subgraph "clusterIERC20" {
+  graph [ label = "IERC20", color = "#e8726d", fontcolor = "#f0f0f0", style = "rounded,dashed", bgcolor = "#3b4b63" ];
+  "IERC20.safeTransfer" [ label = "safeTransfer" ];
+}
+
+subgraph "cluster_fiatToken" {
+  graph [ label = "_fiatToken", color = "#e8726d", fontcolor = "#f0f0f0", style = "rounded,dashed", bgcolor = "#3b4b63" ];
+  "_fiatToken.call" [ label = "call" ];
+}
+
+  "FiatTokenV2_1.initializeV2_1";
+  "FiatTokenV2_1._transfer";
+  "FiatTokenV2.initializeV2";
+  "EIP712.makeDomainSeparator";
+  "FiatTokenV2.increaseAllowance";
+  "FiatTokenV2._increaseAllowance";
+  "FiatTokenV2.decreaseAllowance";
+  "FiatTokenV2._decreaseAllowance";
+  "FiatTokenV2.transferWithAuthorization";
+  "FiatTokenV2._transferWithAuthorization";
+  "FiatTokenV2.receiveWithAuthorization";
+  "FiatTokenV2._receiveWithAuthorization";
+  "FiatTokenV2.cancelAuthorization";
+  "FiatTokenV2._cancelAuthorization";
+  "FiatTokenV2.permit";
+  "FiatTokenV2._permit";
+  "FiatTokenV2._approve";
+  "FiatTokenV1.initialize";
+  "FiatTokenV1.setOwner";
+  "FiatTokenV1.mint";
+  "totalSupply_.add";
+  "mintingAllowedAmount.sub";
+  "FiatTokenV1.Transfer";
+  "FiatTokenV1.approve";
+  "FiatTokenV1._approve";
+  "FiatTokenV1.Approval";
+  "FiatTokenV1.transferFrom";
+  "FiatTokenV1._transfer";
+  "FiatTokenV1.transfer";
+  "FiatTokenV1.burn";
+  "totalSupply_.sub";
+  "balance.sub";
+  "Ownable.<Constructor>";
+  "Ownable.setOwner";
+  "Ownable.transferOwnership";
+  "Rescuable.rescueERC20";
+  "IERC20.safeTransfer";
+  "EIP712.recover";
+  "ECRecover.recover";
+  "EIP3009._transferWithAuthorization";
+  "EIP3009._requireValidAuthorization";
+  "EIP3009._markAuthorizationAsUsed";
+  "EIP3009._transfer";
+  "EIP3009._receiveWithAuthorization";
+  "EIP3009._cancelAuthorization";
+  "EIP3009._requireUnusedAuthorization";
+  "EIP2612._permit";
+  "EIP2612._approve";
+  "FiatTokenUtil.transferWithMultipleAuthorizations";
+  "FiatTokenUtil._unpackAddresses";
+  "_fiatToken.call";
+  "FiatTokenUtil._revertWithReasonFromReturnData";
+  "FiatTokenV2_1.initializeV2_1" -> "FiatTokenV2_1._transfer" [ color = "#1bc6a6" ];
+  "FiatTokenV2.initializeV2" -> "EIP712.makeDomainSeparator" [ color = "white" ];
+  "FiatTokenV2.increaseAllowance" -> "FiatTokenV2._increaseAllowance" [ color = "#1bc6a6" ];
+  "FiatTokenV2.decreaseAllowance" -> "FiatTokenV2._decreaseAllowance" [ color = "#1bc6a6" ];
+  "FiatTokenV2.transferWithAuthorization" -> "FiatTokenV2._transferWithAuthorization" [ color = "#1bc6a6" ];
+  "FiatTokenV2.receiveWithAuthorization" -> "FiatTokenV2._receiveWithAuthorization" [ color = "#1bc6a6" ];
+  "FiatTokenV2.cancelAuthorization" -> "FiatTokenV2._cancelAuthorization" [ color = "#1bc6a6" ];
+  "FiatTokenV2.permit" -> "FiatTokenV2._permit" [ color = "#1bc6a6" ];
+  "FiatTokenV2._increaseAllowance" -> "FiatTokenV2._approve" [ color = "#1bc6a6" ];
+  "FiatTokenV2._decreaseAllowance" -> "FiatTokenV2._approve" [ color = "#1bc6a6" ];
+  "FiatTokenV1.initialize" -> "FiatTokenV1.setOwner" [ color = "#1bc6a6" ];
+  "FiatTokenV1.mint" -> "totalSupply_.add" [ color = "white" ];
+  "FiatTokenV1.mint" -> "mintingAllowedAmount.sub" [ color = "white" ];
+  "FiatTokenV1.mint" -> "FiatTokenV1.Transfer" [ color = "#1bc6a6" ];
+  "FiatTokenV1.approve" -> "FiatTokenV1._approve" [ color = "#1bc6a6" ];
+  "FiatTokenV1._approve" -> "FiatTokenV1.Approval" [ color = "#1bc6a6" ];
+  "FiatTokenV1.transferFrom" -> "FiatTokenV1._transfer" [ color = "#1bc6a6" ];
+  "FiatTokenV1.transfer" -> "FiatTokenV1._transfer" [ color = "#1bc6a6" ];
+  "FiatTokenV1._transfer" -> "FiatTokenV1.Transfer" [ color = "#1bc6a6" ];
+  "FiatTokenV1.burn" -> "totalSupply_.sub" [ color = "white" ];
+  "FiatTokenV1.burn" -> "balance.sub" [ color = "white" ];
+  "FiatTokenV1.burn" -> "FiatTokenV1.Transfer" [ color = "#1bc6a6" ];
+  "Ownable.<Constructor>" -> "Ownable.setOwner" [ color = "#1bc6a6" ];
+  "Ownable.transferOwnership" -> "Ownable.setOwner" [ color = "#1bc6a6" ];
+  "Rescuable.rescueERC20" -> "IERC20.safeTransfer" [ color = "white" ];
+  "EIP712.recover" -> "ECRecover.recover" [ color = "white" ];
+  "EIP3009._transferWithAuthorization" -> "EIP3009._requireValidAuthorization" [ color = "#1bc6a6" ];
+  "EIP3009._transferWithAuthorization" -> "EIP712.recover" [ color = "white" ];
+  "EIP3009._transferWithAuthorization" -> "EIP3009._markAuthorizationAsUsed" [ color = "#1bc6a6" ];
+  "EIP3009._transferWithAuthorization" -> "EIP3009._transfer" [ color = "#1bc6a6" ];
+  "EIP3009._receiveWithAuthorization" -> "EIP3009._requireValidAuthorization" [ color = "#1bc6a6" ];
+  "EIP3009._receiveWithAuthorization" -> "EIP712.recover" [ color = "white" ];
+  "EIP3009._receiveWithAuthorization" -> "EIP3009._markAuthorizationAsUsed" [ color = "#1bc6a6" ];
+  "EIP3009._receiveWithAuthorization" -> "EIP3009._transfer" [ color = "#1bc6a6" ];
+  "EIP3009._cancelAuthorization" -> "EIP3009._requireUnusedAuthorization" [ color = "#1bc6a6" ];
+  "EIP3009._cancelAuthorization" -> "EIP712.recover" [ color = "white" ];
+  "EIP3009._requireValidAuthorization" -> "EIP3009._requireUnusedAuthorization" [ color = "#1bc6a6" ];
+  "EIP2612._permit" -> "EIP712.recover" [ color = "white" ];
+  "EIP2612._permit" -> "EIP2612._approve" [ color = "#1bc6a6" ];
+  "FiatTokenUtil.transferWithMultipleAuthorizations" -> "FiatTokenUtil._unpackAddresses" [ color = "#1bc6a6" ];
+  "FiatTokenUtil.transferWithMultipleAuthorizations" -> "_fiatToken.call" [ color = "white" ];
+  "FiatTokenUtil.transferWithMultipleAuthorizations" -> "FiatTokenUtil._revertWithReasonFromReturnData" [ color = "#1bc6a6" ];
+
+
+rankdir=LR
+node [shape=plaintext]
+subgraph cluster_01 { 
+label = "Legend";
+key [label=<<table border="0" cellpadding="2" cellspacing="0" cellborder="0">
+  <tr><td align="right" port="i1">Internal Call</td></tr>
+  <tr><td align="right" port="i2">External Call</td></tr>
+  <tr><td align="right" port="i3">Defined Contract</td></tr>
+  <tr><td align="right" port="i4">Undefined Contract</td></tr>
+  </table>>]
+key2 [label=<<table border="0" cellpadding="2" cellspacing="0" cellborder="0">
+  <tr><td port="i1">&nbsp;&nbsp;&nbsp;</td></tr>
+  <tr><td port="i2">&nbsp;&nbsp;&nbsp;</td></tr>
+  <tr><td port="i3" bgcolor="#445773">&nbsp;&nbsp;&nbsp;</td></tr>
+  <tr><td port="i4">
+    <table border="1" cellborder="0" cellspacing="0" cellpadding="7" color="#e8726d">
+      <tr>
+       <td></td>
+      </tr>
+     </table>
+  </td></tr>
+  </table>>]
+key:i1:e -> key2:i1:w [color="#1bc6a6"]
+key:i2:e -> key2:i2:w [color="white"]
+}
+}
